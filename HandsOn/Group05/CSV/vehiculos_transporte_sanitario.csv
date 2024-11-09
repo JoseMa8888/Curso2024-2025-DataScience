@@ -1,0 +1,1205 @@
+vehiculo_nro_registro;vehiculo_matricula;vehiculo_tipo
+SA04471;5153 LKR;Ambulancia asistencial de clase C
+SA04413;2086 KNC;Ambulancia no asistencial de clase A2
+SA04722;0322 KNR;Ambulancia no asistencial de clase A2
+SA04716;9417 KNP;Ambulancia no asistencial de clase A2
+SA04717;0287 KNR;Ambulancia no asistencial de clase A2
+SA04719;0363 KNR;Ambulancia no asistencial de clase A2
+SA04720;9531 KNP;Ambulancia no asistencial de clase A2
+SA04718;9591 KNP;Ambulancia no asistencial de clase A2
+SA04725;0327 KNR;Ambulancia no asistencial de clase A2
+SA04726;0357 KNR;Ambulancia no asistencial de clase A2
+SA04727;0432 KNR;Ambulancia no asistencial de clase A2
+SA04643;5885 JNZ;Ambulancia no asistencial de clase A2
+SA04469;5155 LKR;Ambulancia asistencial de clase B 
+SA03917;2988 KGS;Ambulancia no asistencial de clase A1
+SA04637;5597 MBD;Ambulancia asistencial de clase B 
+SA04246;0130 KMR;Ambulancia asistencial de clase B 
+SA03850;9453 JYY;Ambulancia asistencial de clase B 
+SA03801;0465 JSH;Ambulancia no asistencial de clase A1
+SA04376;0286 LJT;Ambulancia asistencial de clase B 
+SA04363;0711 LJT;Ambulancia asistencial de clase B 
+SA04355;0715 LJT;Ambulancia asistencial de clase B 
+SA04348;0283 LJT;Ambulancia asistencial de clase B 
+SA04333;9634 LJS;Ambulancia asistencial de clase B 
+SA04337;0282 LJT;Ambulancia asistencial de clase C
+SA04339;0700 LJT;Ambulancia asistencial de clase C
+SA04344;0702 LJT;Ambulancia asistencial de clase C
+SA04396;8071 LKJ;Ambulancia asistencial de clase C
+SA04398;8623 LKJ;Ambulancia asistencial de clase B 
+SA04390;8072 LKJ;Ambulancia asistencial de clase C
+SA04386;8065 LKJ;Ambulancia asistencial de clase C
+SA04385;8060 LKJ;Ambulancia asistencial de clase C
+SA04384;8062 LKJ;Ambulancia asistencial de clase C
+SA04370;8061 LKJ;Ambulancia asistencial de clase C
+SA04369;8058 LKJ;Ambulancia asistencial de clase C
+SA04335;8614 LKJ;Ambulancia asistencial de clase B 
+SA04368;8616 LKJ;Ambulancia asistencial de clase B 
+SA04380;8607 LKJ;Ambulancia asistencial de clase B 
+SA04374;8608 LKJ;Ambulancia asistencial de clase B 
+SA04372;8661 LKJ;Ambulancia asistencial de clase B 
+SA04371;8603 LKJ;Ambulancia asistencial de clase B 
+SA04367;8622 LKJ;Ambulancia asistencial de clase B 
+SA04345;8624 LKJ;Ambulancia asistencial de clase B 
+SA04664;2218 MBP;Ambulancia asistencial de clase C
+SA04347;7357 LKJ;Ambulancia asistencial de clase C
+SA04381;8611 LKJ;Ambulancia asistencial de clase B 
+SA04340;0699 LJT;Ambulancia asistencial de clase C
+SA05035;5626 MTR;Ambulancia asistencial de clase C
+SA05036;1940 MTH;Ambulancia asistencial de clase C
+SA04489;2954 JDB;Ambulancia no asistencial de clase A2
+SA03826;2121 JSR;Ambulancia no asistencial de clase A2
+SA03827;1972 JSR;Ambulancia no asistencial de clase A2
+SA03829;1711 JSR;Ambulancia no asistencial de clase A2
+SA03830;1597 JSR;Ambulancia no asistencial de clase A2
+SA03707;4874 JNT;Ambulancia asistencial de clase B 
+SA03698;6639 JMR;Ambulancia no asistencial de clase A2
+SA04403;8066 LKJ;Ambulancia asistencial de clase C
+SA04404;8612 LKJ;Ambulancia no asistencial de clase A1
+SA04395;8076 LKJ;Ambulancia asistencial de clase C
+SA04397;8064 LKJ;Ambulancia asistencial de clase C
+SA04399;8619 LKJ;Ambulancia asistencial de clase B 
+SA04400;8078 LKJ;Ambulancia asistencial de clase C
+SA04379;8079 LKJ;Ambulancia asistencial de clase C
+SA04392;8075 LKJ;Ambulancia asistencial de clase C
+SA04388;8063 LKJ;Ambulancia asistencial de clase C
+SA04382;8059 LKJ;Ambulancia asistencial de clase C
+SA04378;8605 LKJ;Ambulancia asistencial de clase B 
+SA04377;8604 LKJ;Ambulancia asistencial de clase B 
+SA04375;8613 LKJ;Ambulancia asistencial de clase B 
+SA04373;8606 LKJ;Ambulancia asistencial de clase B 
+SA04252;4505 KNS;Ambulancia asistencial de clase B 
+SA04402;9962 LJS;Ambulancia asistencial de clase B 
+SA04401;0074 LJT;Ambulancia asistencial de clase B 
+SA04389;0287 LJT;Ambulancia asistencial de clase B 
+SA04383;0073 LJT;Ambulancia asistencial de clase B 
+SA04356;0070 LJT;Ambulancia asistencial de clase B 
+SA04354;0302 LJT;Ambulancia asistencial de clase B 
+SA04364;0284 LJT;Ambulancia asistencial de clase B 
+SA04362;0710 LJT;Ambulancia asistencial de clase B 
+SA04361;0069 LJT;Ambulancia asistencial de clase B 
+SA04359;0709 LJT;Ambulancia asistencial de clase B 
+SA04358;0285 LJT;Ambulancia asistencial de clase B 
+SA04357;0075 LJT;Ambulancia asistencial de clase B 
+SA04351;0708 LJT;Ambulancia asistencial de clase B 
+SA04350;0705 LJT;Ambulancia asistencial de clase B 
+SA04349;0281 LJT;Ambulancia asistencial de clase B 
+SA04353;0706 LJT;Ambulancia asistencial de clase B 
+SA04365;0781 LJT;Ambulancia asistencial de clase B 
+SA04393;0701 LJT;Ambulancia asistencial de clase B 
+SA04394;0280 LJT;Ambulancia asistencial de clase B 
+SA04334;9635 LJS;Ambulancia asistencial de clase B 
+SA04336;0279 LJT;Ambulancia asistencial de clase C
+SA04387;0698 LJT;Ambulancia asistencial de clase C
+SA04338;0704 LJT;Ambulancia asistencial de clase C
+SA04341;9963 LJS;Ambulancia asistencial de clase C
+SA04342;0703 LJT;Ambulancia asistencial de clase C
+SA04343;9961 LJS;Ambulancia asistencial de clase C
+SA04346;0713 LJT;Ambulancia asistencial de clase B 
+SA04565;3603 LZB;Ambulancia asistencial de clase C
+SA03824;1655 JNK;Ambulancia asistencial de clase B 
+SA03857;9725 JZL;Ambulancia asistencial de clase B 
+SA04698;0529 JJD;Ambulancia no asistencial de clase A2
+SA04408;1160 JPF;Ambulancia no asistencial de clase A1
+SA05034;2305 MTD;Ambulancia asistencial de clase B 
+SA05033;2299 MTD;Ambulancia asistencial de clase B 
+SA05032;2292 MTD;Ambulancia asistencial de clase B 
+SA05031;2278 MTD;Ambulancia asistencial de clase B 
+SA05030;2250 MTD;Ambulancia asistencial de clase B 
+SA05029;2171 MTD;Ambulancia asistencial de clase B 
+SA05028;2157 MTD;Ambulancia asistencial de clase B 
+SA05027;2112 MTD;Ambulancia asistencial de clase B 
+SA05018;7051 MTW;Ambulancia no asistencial de clase A2
+SA05019;7049 MTW;Ambulancia no asistencial de clase A2
+SA05020;7048 MTW;Ambulancia no asistencial de clase A2
+SA05021;7047 MTW;Ambulancia no asistencial de clase A2
+SA05022;7046 MTW;Ambulancia no asistencial de clase A2
+SA05023;7044 MTW;Ambulancia no asistencial de clase A2
+SA05024;7043 MTW;Ambulancia no asistencial de clase A2
+SA05025;7042 MTW;Ambulancia no asistencial de clase A2
+SA05026;7045 MTW;Ambulancia asistencial de clase B 
+SA04107;9935 KGX;Ambulancia no asistencial de clase A2
+SA04328;8466 LHN;Ambulancia asistencial de clase C
+SA03865;5450 KBG;Ambulancia no asistencial de clase A1
+SA05017;9372 MTH;Ambulancia asistencial de clase B 
+SA04568;4913 LZV;Ambulancia asistencial de clase B 
+SA04567;5140 JBP;Ambulancia asistencial de clase C
+SA04502;5371 JNZ;Ambulancia no asistencial de clase A2
+SA03916;2987 KGS;Ambulancia no asistencial de clase A1
+SA03530;1069 JBD;Ambulancia asistencial de clase B 
+SA04653;2654 JHY;Ambulancia no asistencial de clase A2
+SA04697;6326 KZN;Ambulancia asistencial de clase C
+SA04562;5045 JBP;Ambulancia asistencial de clase C
+SA04415;2100 KNC;Ambulancia no asistencial de clase A1
+SA04680;2865 JVV;Ambulancia no asistencial de clase A2
+SA04061;6801 KGY;Ambulancia no asistencial de clase A1
+SA04049;3995 KGX;Ambulancia no asistencial de clase A2
+SA03841;5147 JYV;Ambulancia asistencial de clase C
+SA03842;6210 JYV;Ambulancia asistencial de clase C
+SA03615;0361 JFY;Ambulancia no asistencial de clase A1
+SA03534;1039 JBD;Ambulancia asistencial de clase C
+SA04655;2581 JHY;Ambulancia no asistencial de clase A2
+SA05016;7486 JLF;Ambulancia asistencial de clase C
+SA04493;5430 LRP;Ambulancia asistencial de clase C
+SA04476;6812 JCP;Ambulancia no asistencial de clase A2
+SA04457;2958 JDB;Ambulancia no asistencial de clase A1
+SA05015;8031 MSL;Ambulancia asistencial de clase C
+SA05014;8026 MSL;Ambulancia asistencial de clase C
+SA05013;8025 MSL;Ambulancia asistencial de clase C
+SA03871;8629 JXJ;Ambulancia no asistencial de clase A1
+SA03852;9118 JYY;Ambulancia asistencial de clase C
+SA03625;9957 JFX;Ambulancia no asistencial de clase A2
+SA05010;8030 MSL;Ambulancia asistencial de clase B 
+SA05011;8027 MSL;Ambulancia asistencial de clase B 
+SA05012;8024 MSL;Ambulancia asistencial de clase B 
+SA04563;9919 LYC;Ambulancia asistencial de clase C
+SA04483;2553 JDF;Ambulancia asistencial de clase C
+SA03960;2898 KGV;Ambulancia no asistencial de clase A1
+SA03946;3097 KGS;Ambulancia no asistencial de clase A2
+SA03921;2993 KGS;Ambulancia no asistencial de clase A2
+SA04490;8851 LPM;Ambulancia asistencial de clase B 
+SA04324;7161 LHH;Ambulancia asistencial de clase B 
+SA05009;5537 LHV;Ambulancia asistencial de clase C
+SA04679;2949 JVV;Ambulancia no asistencial de clase A2
+SA04652;0749 JCH;Ambulancia no asistencial de clase A2
+SA04541;4772 JPG;Ambulancia no asistencial de clase A2
+SA04124;0620 KGY;Ambulancia no asistencial de clase A1
+SA03823;9105 JRS;Ambulancia asistencial de clase B 
+SA03822;9103 JRS;Ambulancia asistencial de clase B 
+SA03541;1056 JBD;Ambulancia asistencial de clase B 
+SA04480;9352 JRG;Ambulancia no asistencial de clase A2
+SA05007;3775 MRZ;Ambulancia no asistencial de clase A1
+SA05008;3703 MRZ;Ambulancia no asistencial de clase A1
+SA03594;7448 JDV;Ambulancia asistencial de clase B 
+SA04676;2948 JVV;Ambulancia no asistencial de clase A2
+SA04681;2875 JVV;Ambulancia no asistencial de clase A2
+SA04491;5664 LRG;Ambulancia asistencial de clase C
+SA04251;4919 KNW;Ambulancia asistencial de clase C
+SA04094;8453 KGY;Ambulancia no asistencial de clase A1
+SA03700;4169 JMY;Ambulancia asistencial de clase C
+SA03635;3510 JGJ;Ambulancia asistencial de clase C
+SA03623;0285 JFY;Ambulancia no asistencial de clase A1
+SA03618;0291 JFY;Ambulancia no asistencial de clase A1
+SA03616;0380 JFY;Ambulancia no asistencial de clase A1
+SA03542;1057 JBD;Ambulancia asistencial de clase B 
+SA04675;6300 KZN;Ambulancia asistencial de clase C
+SA04564;2055 LYS;Ambulancia asistencial de clase B 
+SA04475;5594 LNX;Ambulancia no asistencial de clase A1
+SA03631;3694 JGJ;Ambulancia asistencial de clase C
+SA04481;6106 JBP;Ambulancia asistencial de clase B 
+SA05005;6008 MRW;Ambulancia no asistencial de clase A1
+SA05002;6004 MRW;Ambulancia no asistencial de clase A1
+SA05001;5777 MRW;Ambulancia no asistencial de clase A1
+SA05006;5776 MRW;Ambulancia no asistencial de clase A2
+SA05003;5775 MRW;Ambulancia no asistencial de clase A2
+SA05004;5773 MRW;Ambulancia no asistencial de clase A2
+SA03835;4344 JWK;Ambulancia asistencial de clase B 
+SA03632;5101 JGG;Ambulancia asistencial de clase C
+SA04678;4103 JHC;Ambulancia asistencial de clase C
+SA04677;4032 JHC;Ambulancia asistencial de clase C
+SA04098;8690 KGY;Ambulancia no asistencial de clase A1
+SA04136;8326 KGY;Ambulancia no asistencial de clase A1
+SA04067;1515 KGY;Ambulancia no asistencial de clase A1
+SA03989;3697 KGX;Ambulancia no asistencial de clase A2
+SA04022;3446 KGX;Ambulancia no asistencial de clase A1
+SA04021;3435 KGX;Ambulancia no asistencial de clase A1
+SA04019;3388 KGX;Ambulancia no asistencial de clase A1
+SA03613;6495 JFZ;Ambulancia no asistencial de clase A1
+SA03628;6435 JFZ;Ambulancia no asistencial de clase A2
+SA03627;0126 JFY;Ambulancia no asistencial de clase A2
+SA03626;9991 JFX;Ambulancia no asistencial de clase A2
+SA03590;5251 JDC;Ambulancia asistencial de clase C
+SA04271;2081 KVH;Ambulancia asistencial de clase C
+SA03851;9124 JYY;Ambulancia asistencial de clase B 
+SA03498;1001 HYS;Ambulancia asistencial de clase C
+SA04485;6269 LRG;Ambulancia asistencial de clase C
+SA04269;6810 KVR;Ambulancia asistencial de clase C
+SA04671;6520 LMH;Ambulancia no asistencial de clase A1
+SA04660;8259 JPD;Ambulancia no asistencial de clase A1
+SA04542;1743 LWY;Ambulancia asistencial de clase B 
+SA04998;0295 LGL;Ambulancia asistencial de clase B 
+SA04999;2108 LJZ;Ambulancia asistencial de clase C
+SA03846;5976 JBL;Ambulancia asistencial de clase C
+SA03845;3768 JBJ;Ambulancia no asistencial de clase A1
+SA03868;1712 KDB;Ambulancia asistencial de clase B 
+SA03701;7226 JML;Ambulancia asistencial de clase C
+SA04997;5495 MRH;Ambulancia asistencial de clase B 
+SA04474;9216 JRG;Ambulancia no asistencial de clase A2
+SA04192;2649 KHC;Ambulancia no asistencial de clase A2
+SA04150;0452 KGZ;Ambulancia no asistencial de clase A2
+SA03983;7599 KGV;Ambulancia no asistencial de clase A2
+SA03696;6562 JMR;Ambulancia no asistencial de clase A2
+SA04316;0140 KWT;Ambulancia asistencial de clase B 
+SA03697;6535 JMR;Ambulancia no asistencial de clase A2
+SA04996;2434 JXK;Ambulancia asistencial de clase B 
+SA04818;7876 JBN;Ambulancia asistencial de clase B 
+SA04994;4803 MPB;Ambulancia asistencial de clase C
+SA04995;2470 JNY;Ambulancia no asistencial de clase A2
+SA04522;5832 LGZ;Ambulancia asistencial de clase B 
+SA04417;3354 LLP;Ambulancia asistencial de clase C
+SA04411;5643 JJJ;Ambulancia asistencial de clase C
+SA03704;4420 JMT;Ambulancia no asistencial de clase A1
+SA04546;6187 LXK;Ambulancia asistencial de clase C
+SA04549;6196 LXK;Ambulancia asistencial de clase C
+SA04552;6193 LXK;Ambulancia asistencial de clase C
+SA04554;6190 LXK;Ambulancia asistencial de clase C
+SA04553;6189 LXK;Ambulancia asistencial de clase C
+SA04779;2433 JXK;Ambulancia asistencial de clase B 
+SA04322;5402 LGK;Ambulancia asistencial de clase B 
+SA04105;9699 KGX;Ambulancia no asistencial de clase A2
+SA04003;4064 KGX;Ambulancia no asistencial de clase A2
+SA04054;4054 KGX;Ambulancia no asistencial de clase A2
+SA03988;4009 KGX;Ambulancia no asistencial de clase A2
+SA04048;3965 KGX;Ambulancia no asistencial de clase A2
+SA04047;3854 kgx;Ambulancia no asistencial de clase A2
+SA04042;3735 KGX;Ambulancia no asistencial de clase A2
+SA04041;3715 KGX;Ambulancia no asistencial de clase A2
+SA04004;3599 KGX;Ambulancia no asistencial de clase A2
+SA04013;3512 KGX;Ambulancia no asistencial de clase A2
+SA03950;3103 KGS;Ambulancia no asistencial de clase A2
+SA03944;3095 KGS;Ambulancia no asistencial de clase A1
+SA04185;3080 KGS;Ambulancia no asistencial de clase A2
+SA03934;3076 KGS;Ambulancia no asistencial de clase A2
+SA03933;3075 KGS;Ambulancia no asistencial de clase A2
+SA03932;3074 KGS;Ambulancia no asistencial de clase A2
+SA03931;3073 KGS;Ambulancia no asistencial de clase A2
+SA03930;3072 KGS;Ambulancia no asistencial de clase A2
+SA03929;3071 KGS;Ambulancia no asistencial de clase A2
+SA03920;2992 KGS;Ambulancia no asistencial de clase A2
+SA03662;9726 JKB;Ambulancia no asistencial de clase A1
+SA04321;7955 JPB;Ambulancia asistencial de clase C
+SA04313;2385 JPB;Ambulancia no asistencial de clase A2
+SA04193;2821 KHC;Ambulancia no asistencial de clase A2
+SA04993;4389 MPB;Ambulancia asistencial de clase C
+SA04102;9671 KGX;Ambulancia no asistencial de clase A1
+SA04092;8468 KGY;Ambulancia no asistencial de clase A1
+SA04090;8068 KGY;Ambulancia no asistencial de clase A1
+SA04085;7022 KGY;Ambulancia no asistencial de clase A1
+SA04084;6923 KGY;Ambulancia no asistencial de clase A1
+SA04082;6723 KGY;Ambulancia no asistencial de clase A1
+SA04079;6538 KGY;Ambulancia no asistencial de clase A1
+SA04078;6478 KGY;Ambulancia no asistencial de clase A1
+SA04077;6442 KGY;Ambulancia no asistencial de clase A1
+SA04075;6361 KGY;Ambulancia no asistencial de clase A1
+SA04125;0684 KGY;Ambulancia no asistencial de clase A1
+SA04118;0504 KGY;Ambulancia no asistencial de clase A1
+SA04059;0386 KGY;Ambulancia no asistencial de clase A1
+SA04115;0346 KGY;Ambulancia no asistencial de clase A1
+SA04017;3306 KGX;Ambulancia asistencial de clase B 
+SA03684;3514 JLR;Ambulancia no asistencial de clase A2
+SA04556;6192 LXK;Ambulancia asistencial de clase B 
+SA04988;3679 MPN;Ambulancia asistencial de clase B 
+SA04989;3683 MPN;Ambulancia asistencial de clase B 
+SA04990;3740 MPN;Ambulancia asistencial de clase B 
+SA04991;3697 MPN;Ambulancia asistencial de clase B 
+SA04992;3675 MPN;Ambulancia asistencial de clase B 
+SA04984;3681 MPN;Ambulancia asistencial de clase B 
+SA04986;3689 MPN;Ambulancia asistencial de clase B 
+SA04981;3682 MPN;Ambulancia asistencial de clase B 
+SA04985;3718 MPN;Ambulancia asistencial de clase B 
+SA04976;3680 MPN;Ambulancia asistencial de clase B 
+SA04975;3676 MPN;Ambulancia asistencial de clase B 
+SA04974;3710 MPN;Ambulancia asistencial de clase C
+SA04977;3709 MPN;Ambulancia asistencial de clase C
+SA04969;3708 MPN;Ambulancia asistencial de clase C
+SA04973;3707 MPN;Ambulancia asistencial de clase C
+SA04967;3706 MPN;Ambulancia asistencial de clase C
+SA04965;3702 MPN;Ambulancia asistencial de clase C
+SA04971;3700 MPN;Ambulancia asistencial de clase C
+SA04980;3699 MPN;Ambulancia asistencial de clase C
+SA04968;3698 MPN;Ambulancia asistencial de clase C
+SA04964;3695 MNP;Ambulancia asistencial de clase C
+SA04970;3694 MPN;Ambulancia asistencial de clase C
+SA04963;3692 MPN;Ambulancia asistencial de clase C
+SA04962;3687 MPN;Ambulancia no asistencial de clase A1
+SA04972;3688 MPN;Ambulancia asistencial de clase B 
+SA04978;3712 MPN;Ambulancia asistencial de clase B 
+SA04979;3677 MPN;Ambulancia asistencial de clase B 
+SA04987;3678 MPN;Ambulancia asistencial de clase B 
+SA04982;3685 MPN;Ambulancia asistencial de clase B 
+SA04966;3703 MPN;Ambulancia asistencial de clase C
+SA04983;3701 MPN;Ambulancia asistencial de clase C
+SA04953;1542 MPM;Ambulancia asistencial de clase B 
+SA04954;1546 MPM;Ambulancia asistencial de clase B 
+SA04955;1537 MPM;Ambulancia asistencial de clase B 
+SA04956;1540 MPM;Ambulancia asistencial de clase B 
+SA04957;1547 MPM;Ambulancia asistencial de clase B 
+SA04958;1543 MPM;Ambulancia asistencial de clase B 
+SA04959;1545 MPM;Ambulancia asistencial de clase B 
+SA04960;1538 MPM;Ambulancia asistencial de clase B 
+SA04961;1539 MPM;Ambulancia asistencial de clase B 
+SA04560;9504 LXS;Ambulancia asistencial de clase B 
+SA04547;6188 LXK;Ambulancia asistencial de clase B 
+SA04548;6197 LXK;Ambulancia asistencial de clase B 
+SA04550;6195 LXK;Ambulancia asistencial de clase B 
+SA04551;6194 LXK;Ambulancia asistencial de clase B 
+SA04555;6191 LXK;Ambulancia asistencial de clase B 
+SA04543;0582 JJN;Ambulancia asistencial de clase B 
+SA04947;1544 MPM;Ambulancia asistencial de clase B 
+SA04948;1533 MPM;Ambulancia asistencial de clase B 
+SA04949;1536 MPM;Ambulancia asistencial de clase B 
+SA04950;1534 MPM;Ambulancia asistencial de clase B 
+SA04951;1541 MPM;Ambulancia asistencial de clase B 
+SA04952;1765 MPM;Ambulancia asistencial de clase C
+SA04482;9633 LNM;Ambulancia asistencial de clase C
+SA04416;7934 JJL;Ambulancia asistencial de clase C
+SA04233;5051 KJL;Ambulancia no asistencial de clase A2
+SA03951;3104 KGS;Ambulancia no asistencial de clase A2
+SA03947;3098 KGS;Ambulancia no asistencial de clase A2
+SA03943;3094 KGS;Ambulancia no asistencial de clase A2
+SA03938;3082 KGS;Ambulancia no asistencial de clase A2
+SA03935;3077 KGS;Ambulancia no asistencial de clase A2
+SA03928;3070 KGS;Ambulancia no asistencial de clase A2
+SA04178;2989 KGS;Ambulancia no asistencial de clase A2
+SA04163;2986 KGS;Ambulancia no asistencial de clase A2
+SA04462;5129 JRS;Ambulancia asistencial de clase B 
+SA04301;2379 JPB;Ambulancia no asistencial de clase A2
+SA03927;3002 KGS;Ambulancia no asistencial de clase A2
+SA03914;2983 KGS;Ambulancia no asistencial de clase A2
+SA03694;6771 JMR;Ambulancia no asistencial de clase A2
+SA04945;5152 KTC;Ambulancia no asistencial de clase A2
+SA04946;5695 JXG;Ambulancia no asistencial de clase A1
+SA03836;7376 JWX;Ambulancia asistencial de clase B 
+SA03706;3500 JMT;Ambulancia no asistencial de clase A1
+SA03705;4366 JMT;Ambulancia no asistencial de clase A1
+SA04929;2912 MNT;Ambulancia asistencial de clase B 
+SA04930;2911 MNT;Ambulancia asistencial de clase B 
+SA04931;2910 MNT;Ambulancia asistencial de clase B 
+SA04932;2909 MNT;Ambulancia asistencial de clase B 
+SA04933;2908 MNT;Ambulancia asistencial de clase B 
+SA04934;2906 MNT;Ambulancia asistencial de clase B 
+SA04935;2905 MNT;Ambulancia asistencial de clase B 
+SA04936;8519 MNK;Ambulancia asistencial de clase B 
+SA04937;8515 MNK;Ambulancia asistencial de clase B 
+SA04938;8513 MNK;Ambulancia asistencial de clase B 
+SA04939;8510 MNK;Ambulancia asistencial de clase B 
+SA04940;8505 MNK;Ambulancia asistencial de clase B 
+SA04941;8503 MNK;Ambulancia asistencial de clase B 
+SA04942;8501 MNK;Ambulancia asistencial de clase B 
+SA04943;8499 MNK;Ambulancia asistencial de clase B 
+SA04944;8498 MNK;Ambulancia asistencial de clase B 
+SA04544;5526 JJP;Ambulancia asistencial de clase B 
+SA04927;1255 MNJ;Ambulancia no asistencial de clase A2
+SA04901;2972 MNV;Ambulancia asistencial de clase B 
+SA04902;3290 MNT;Ambulancia asistencial de clase B 
+SA04903;3285 MNT;Ambulancia asistencial de clase B 
+SA04860;3284 MNT;Ambulancia asistencial de clase B 
+SA04859;3282 MNT;Ambulancia asistencial de clase B 
+SA04858;3281 MNT;Ambulancia asistencial de clase B 
+SA04857;3271 MNT;Ambulancia asistencial de clase B 
+SA04904;3077 MNV;Ambulancia asistencial de clase B 
+SA04905;3011 MNV;Ambulancia asistencial de clase B 
+SA04856;3010 MNV;Ambulancia asistencial de clase B 
+SA04855;2976 MNV;Ambulancia asistencial de clase B 
+SA04854;2974 MNV;Ambulancia asistencial de clase B 
+SA04853;2973 MNV;Ambulancia asistencial de clase B 
+SA04851;3272 MNT;Ambulancia asistencial de clase B 
+SA04852;3273 MNT;Ambulancia asistencial de clase B 
+SA04906;3274 MNT;Ambulancia asistencial de clase B 
+SA04907;3275 MNT;Ambulancia asistencial de clase B 
+SA04847;3276 MNT;Ambulancia asistencial de clase B 
+SA04848;3277 MNT;Ambulancia asistencial de clase B 
+SA04908;3278 MNT;Ambulancia asistencial de clase B 
+SA04909;3279 MNT;Ambulancia asistencial de clase B 
+SA04910;3280 MNT;Ambulancia asistencial de clase B 
+SA04911;2971 MNV;Ambulancia asistencial de clase B 
+SA04912;2970 MNV;Ambulancia asistencial de clase B 
+SA04913;2970 MNT;Ambulancia asistencial de clase B 
+SA04914;2969 MNV;Ambulancia asistencial de clase B 
+SA04915;2968 MNV;Ambulancia asistencial de clase B 
+SA04916;2967 MNV;Ambulancia asistencial de clase B 
+SA04917;2966 MNV;Ambulancia asistencial de clase B 
+SA04918;2965 MNV;Ambulancia asistencial de clase B 
+SA04919;2964 MNV;Ambulancia asistencial de clase B 
+SA04920;2942 MNT;Ambulancia asistencial de clase B 
+SA04921;2926 MNT;Ambulancia asistencial de clase B 
+SA04922;2919 MNT;Ambulancia asistencial de clase B 
+SA04923;2916 MNT;Ambulancia asistencial de clase B 
+SA04924;2915 MNT;Ambulancia asistencial de clase B 
+SA04925;2914 MNT;Ambulancia asistencial de clase B 
+SA04926;2913 MNT;Ambulancia asistencial de clase B 
+SA04928;5886 MNM;Ambulancia no asistencial de clase A2
+SA04900;8497 MNK;Ambulancia asistencial de clase B 
+SA04899;8495 MNK;Ambulancia asistencial de clase B 
+SA04898;8493 MNK;Ambulancia asistencial de clase B 
+SA04897;0380 MNM;Ambulancia asistencial de clase B 
+SA04896;0371 MNM;Ambulancia asistencial de clase B 
+SA04895;8491 MNK;Ambulancia asistencial de clase B 
+SA04894;8487 MNK;Ambulancia asistencial de clase B 
+SA04893;8486 MNK;Ambulancia asistencial de clase B 
+SA04892;8485 MNK;Ambulancia asistencial de clase B 
+SA04891;8482 MNK;Ambulancia asistencial de clase B 
+SA04890;8479 MNK;Ambulancia asistencial de clase B 
+SA04889;8477 MNK;Ambulancia asistencial de clase B 
+SA04888;8475 MNK;Ambulancia asistencial de clase B 
+SA04887;3581 MNK;Ambulancia asistencial de clase B 
+SA04886;2879 MNK;Ambulancia asistencial de clase B 
+SA04885;2870 MNK;Ambulancia asistencial de clase B 
+SA04884;2848 MNK;Ambulancia asistencial de clase B 
+SA04883;2723 MNK;Ambulancia asistencial de clase B 
+SA04882;2719 MNK;Ambulancia asistencial de clase B 
+SA04881;2715 MNK;Ambulancia asistencial de clase B 
+SA04880;2678 MNK;Ambulancia asistencial de clase B 
+SA04879;2675 MNK;Ambulancia asistencial de clase B 
+SA04878;2655 MNK;Ambulancia asistencial de clase B 
+SA04877;2603 MNK;Ambulancia asistencial de clase B 
+SA04876;2667 MNK;Ambulancia asistencial de clase B 
+SA04874;2649 MNK;Ambulancia asistencial de clase B 
+SA04873;2648 MNK;Ambulancia asistencial de clase B 
+SA04872;2647 MNK;Ambulancia asistencial de clase B 
+SA04871;2645 MNK;Ambulancia asistencial de clase B 
+SA04870;2643 MNK;Ambulancia asistencial de clase B 
+SA04869;2630 MNK;Ambulancia asistencial de clase B 
+SA04868;2618 MNK;Ambulancia asistencial de clase B 
+SA04867;2608 MNK;Ambulancia asistencial de clase B 
+SA04866;2607 MNK;Ambulancia asistencial de clase B 
+SA04865;2593 MNK;Ambulancia asistencial de clase B 
+SA04864;2592 MNK;Ambulancia asistencial de clase B 
+SA04863;2591 MNK;Ambulancia asistencial de clase B 
+SA04862;2585 MNK;Ambulancia asistencial de clase B 
+SA04861;2570 MNK;Ambulancia asistencial de clase B 
+SA04297;7103 KWC;Ambulancia asistencial de clase C
+SA04875;4548 MNL;Ambulancia asistencial de clase C
+SA04849;2904 MNT;Ambulancia asistencial de clase B 
+SA04850;2903 MNT;Ambulancia asistencial de clase B 
+SA04406;5585 JJJ;Ambulancia asistencial de clase C
+SA04268;7538 KSF;Ambulancia asistencial de clase B 
+SA04530;5370 LWL;Ambulancia asistencial de clase B 
+SA04531;0403 LWL;Ambulancia asistencial de clase C
+SA04138;7958 KGY;Ambulancia no asistencial de clase A1
+SA04062;6281 KGY;Ambulancia no asistencial de clase A1
+SA04099;8748 KGY;Ambulancia no asistencial de clase A1
+SA04097;8609 KGY;Ambulancia no asistencial de clase A1
+SA04096;8557 KGY;Ambulancia no asistencial de clase A1
+SA04095;8508 KGY;Ambulancia no asistencial de clase A1
+SA04093;8286 KGY;Ambulancia no asistencial de clase A1
+SA04091;8221 KGY;Ambulancia no asistencial de clase A1
+SA04088;7203 KGY;Ambulancia no asistencial de clase A1
+SA04083;6875 KGY;Ambulancia no asistencial de clase A1
+SA04081;6659 KGY;Ambulancia no asistencial de clase A1
+SA04076;6394 KGY;Ambulancia no asistencial de clase A1
+SA04074;6339 KGY;Ambulancia no asistencial de clase A1
+SA04073;6240 KGY;Ambulancia no asistencial de clase A1
+SA04066;1444 KGY;Ambulancia no asistencial de clase A1
+SA04064;0730 KGY;Ambulancia no asistencial de clase A1
+SA04135;1160 KGY;Ambulancia no asistencial de clase A1
+SA04000;0104 KGY;Ambulancia no asistencial de clase A1
+SA04005;0076 KGY;Ambulancia no asistencial de clase A1
+SA04044;0008 KGY;Ambulancia no asistencial de clase A2
+SA04058;4077 KGX;Ambulancia no asistencial de clase A1
+SA04057;4073 KGX;Ambulancia no asistencial de clase A1
+SA04055;4058 KGX;Ambulancia no asistencial de clase A2
+SA04052;4035 KGX;Ambulancia no asistencial de clase A2
+SA04007;3557 KGX;Ambulancia no asistencial de clase A2
+SA04023;3469 KGX;Ambulancia no asistencial de clase A2
+SA04020;3417 KGX;Ambulancia no asistencial de clase A1
+SA04006;3363 KGX;Ambulancia no asistencial de clase A1
+SA04846;1641 MNL;Ambulancia asistencial de clase C
+SA04466;6727 JCP;Ambulancia no asistencial de clase A2
+SA04841;5882 MNM;Ambulancia no asistencial de clase A2
+SA04842;5725 MNM;Ambulancia no asistencial de clase A2
+SA04843;5877 MNM;Ambulancia no asistencial de clase A2
+SA04844;1266 MNJ;Ambulancia no asistencial de clase A2
+SA04845;1229 MNJ;Ambulancia no asistencial de clase A2
+SA04534;7345 JJR;Ambulancia asistencial de clase C
+SA03657;7787 JHM;Ambulancia asistencial de clase B 
+SA04840;5628 MND;Ambulancia asistencial de clase B 
+SA04300;9717 KVF;Ambulancia asistencial de clase B 
+SA04232;3593 KJK;Ambulancia no asistencial de clase A2
+SA03854;2883 JZZ;Ambulancia asistencial de clase B 
+SA04839;1649 MNL;Ambulancia asistencial de clase C
+SA03663;4093 JLD;Ambulancia no asistencial de clase A2
+SA04043;3873 KGX;Ambulancia no asistencial de clase A2
+SA04068;1576 KGY;Ambulancia no asistencial de clase A1
+SA04050;4000 KGX;Ambulancia no asistencial de clase A2
+SA04024;3489 KGX;Ambulancia no asistencial de clase A2
+SA04106;9810 KGX;Ambulancia no asistencial de clase A2
+SA04100;9159 KGX;Ambulancia no asistencial de clase A1
+SA04104;8983 KGX;Ambulancia no asistencial de clase A2
+SA04080;6624 KGY;Ambulancia no asistencial de clase A1
+SA04072;6201 KGY;Ambulancia no asistencial de clase A1
+SA04071;1793 KGY;Ambulancia no asistencial de clase A1
+SA04053;4051 KGX;Ambulancia no asistencial de clase A2
+SA04051;4002 KGX;Ambulancia no asistencial de clase A2
+SA03986;3984 KGX;Ambulancia no asistencial de clase A2
+SA03984;3976 KGX;Ambulancia no asistencial de clase A2
+SA03985;3967 KGX;Ambulancia no asistencial de clase A2
+SA04046;3806 KGX;Ambulancia no asistencial de clase A2
+SA04045;3790 KGX;Ambulancia no asistencial de clase A2
+SA04040;3496 KGX;Ambulancia no asistencial de clase A2
+SA04528;7496 JJR;Ambulancia asistencial de clase C
+SA04089;7802 KGY;Ambulancia no asistencial de clase A1
+SA04101;9526 KGX;Ambulancia no asistencial de clase A1
+SA04087;7148 KGY;Ambulancia no asistencial de clase A1
+SA04070;1748 KGY;Ambulancia no asistencial de clase A1
+SA03987;3892 KGX;Ambulancia no asistencial de clase A2
+SA04069;1688 KGY;Ambulancia no asistencial de clase A1
+SA04063;1641 KGY;Ambulancia no asistencial de clase A1
+SA04831;2286 MND;Ambulancia no asistencial de clase A2
+SA04830;2284 MND;Ambulancia no asistencial de clase A2
+SA04829;2283 MND;Ambulancia no asistencial de clase A1
+SA04086;7114 KGY;Ambulancia no asistencial de clase A1
+SA04060;0547 KGY;Ambulancia no asistencial de clase A1
+SA04103;0422 KGY;Ambulancia no asistencial de clase A2
+SA03994;0293 KGY;Ambulancia no asistencial de clase A1
+SA03999;0149 KGY;Ambulancia no asistencial de clase A1
+SA04056;4070 KGX;Ambulancia no asistencial de clase A2
+SA03992;3634 KGX;Ambulancia no asistencial de clase A2
+SA04001;3611 KGX;Ambulancia no asistencial de clase A2
+SA04008;3536 KGX;Ambulancia no asistencial de clase A2
+SA04018;3328 KGX;Ambulancia no asistencial de clase A1
+SA04838;2294 MND;Ambulancia no asistencial de clase A2
+SA04837;2293 MND;Ambulancia no asistencial de clase A2
+SA04836;2291 MND;Ambulancia no asistencial de clase A1
+SA04835;2290 MND;Ambulancia no asistencial de clase A1
+SA04834;2289 MND;Ambulancia no asistencial de clase A2
+SA04833;2288 MND;Ambulancia no asistencial de clase A2
+SA04832;2287 MND;Ambulancia no asistencial de clase A2
+SA04662;5286 LDG;Ambulancia asistencial de clase C
+SA04532;0346 KNR;Ambulancia no asistencial de clase A2
+SA04533;0307 KNR;Ambulancia no asistencial de clase A2
+SA04320;2378 JPB;Ambulancia no asistencial de clase A2
+SA04189;3009 KGY;Ambulancia no asistencial de clase A1
+SA03959;2897 KGV;Ambulancia no asistencial de clase A1
+SA03957;2895 KGV;Ambulancia no asistencial de clase A1
+SA03955;3192 KGS;Ambulancia no asistencial de clase A1
+SA03953;3106 KGS;Ambulancia no asistencial de clase A1
+SA03911;6442 KGJ;Ambulancia no asistencial de clase A2
+SA03909;6438 KGJ;Ambulancia no asistencial de clase A2
+SA03908;6433 KGJ;Ambulancia no asistencial de clase A2
+SA03907;6432 KGJ;Ambulancia no asistencial de clase A2
+SA03906;6429 KGJ;Ambulancia no asistencial de clase A2
+SA03904;6427 KGJ;Ambulancia no asistencial de clase A2
+SA03875;4049 KGJ;Ambulancia no asistencial de clase A2
+SA03876;4044 KGJ;Ambulancia no asistencial de clase A2
+SA03880;4038 KGJ;Ambulancia no asistencial de clase A2
+SA03881;4037 KGJ;Ambulancia no asistencial de clase A2
+SA03866;3160 KCS;Ambulancia asistencial de clase C
+SA03685;4618 JLR;Ambulancia no asistencial de clase A2
+SA03653;9763 JKB;Ambulancia no asistencial de clase A1
+SA04828;3386 MMG;Ambulancia asistencial de clase B 
+SA04827;3329 MMG;Ambulancia asistencial de clase B 
+SA04826;3303 MMG;Ambulancia asistencial de clase B 
+SA04825;3302 MMG;Ambulancia asistencial de clase B 
+SA04824;3299 MMG;Ambulancia asistencial de clase B 
+SA04823;3295 MMG;Ambulancia asistencial de clase B 
+SA04525;5113 JDH;Ambulancia asistencial de clase B 
+SA04230;3712 KHH;Ambulancia asistencial de clase B 
+SA04229;3710 KHH;Ambulancia asistencial de clase B 
+SA04822;1553 MMG;Ambulancia asistencial de clase B 
+SA04821;8358 LTR;Ambulancia no asistencial de clase A2
+SA04332;2960 JDB;Ambulancia no asistencial de clase A1
+SA04306;8095 KYG;Ambulancia asistencial de clase C
+SA03834;9520 JPY;Ambulancia asistencial de clase B 
+SA03702;8896 JMJ;Ambulancia asistencial de clase B 
+SA04113;1307 KGZ;Ambulancia no asistencial de clase A2
+SA04110;1314 KGZ;Ambulancia no asistencial de clase A2
+SA04158;1315 KGZ;Ambulancia no asistencial de clase A2
+SA04155;1310 KGZ;Ambulancia no asistencial de clase A2
+SA03952;3105 KGS;Ambulancia no asistencial de clase A1
+SA03949;3102 KGS;Ambulancia no asistencial de clase A2
+SA03948;3099 KGS;Ambulancia no asistencial de clase A1
+SA03945;3096 KGS;Ambulancia no asistencial de clase A1
+SA03942;3093 KGS;Ambulancia no asistencial de clase A2
+SA04201;0206 KGZ;Ambulancia no asistencial de clase A2
+SA04212;0197 KGZ;Ambulancia no asistencial de clase A2
+SA04222;0194 KGZ;Ambulancia no asistencial de clase A2
+SA04108;0627 KGZ;Ambulancia no asistencial de clase A2
+SA04148;0634 KGZ;Ambulancia no asistencial de clase A2
+SA04145;0625 KGZ;Ambulancia no asistencial de clase A2
+SA04144;0455 KGZ;Ambulancia no asistencial de clase A2
+SA04143;1302 KGZ;Ambulancia no asistencial de clase A2
+SA04142;1299 KGZ;Ambulancia no asistencial de clase A2
+SA04461;6657 LMR;Ambulancia asistencial de clase C
+SA04464;6587 LMR;Ambulancia asistencial de clase C
+SA04463;6590 LMR;Ambulancia asistencial de clase C
+SA04458;6586 LMR;Ambulancia asistencial de clase C
+SA04460;6591 LMR;Ambulancia asistencial de clase C
+SA04459;6588 LMR;Ambulancia asistencial de clase C
+SA04448;6585 LMR;Ambulancia asistencial de clase C
+SA04454;6659 LMR;Ambulancia asistencial de clase C
+SA04447;6589 LMR;Ambulancia asistencial de clase C
+SA04425;6583 LMR;Ambulancia asistencial de clase C
+SA04456;6611 LRM;Ambulancia asistencial de clase C
+SA04455;6606 LMR;Ambulancia asistencial de clase C
+SA04453;6607 LMR;Ambulancia asistencial de clase C
+SA04452;6655 LMR;Ambulancia asistencial de clase C
+SA04426;6604 LMR;Ambulancia asistencial de clase C
+SA04420;6618 LMR;Ambulancia asistencial de clase C
+SA04451;6622 LMR;Ambulancia asistencial de clase C
+SA04427;6619 LMR;Ambulancia asistencial de clase C
+SA04446;6626 LMR;Ambulancia asistencial de clase C
+SA04428;6625 LMR;Ambulancia asistencial de clase C
+SA04429;6623 LMR;Ambulancia asistencial de clase C
+SA04450;6653 LMR;Ambulancia asistencial de clase C
+SA04430;6605 LMR;Ambulancia asistencial de clase C
+SA04449;6603 LMR;Ambulancia asistencial de clase C
+SA04424;6673 LMR;Ambulancia asistencial de clase C
+SA04431;6609 LMR;Ambulancia asistencial de clase C
+SA04432;6608 LMR;Ambulancia asistencial de clase C
+SA04423;6624 LMR;Ambulancia asistencial de clase C
+SA04422;6620 LMR;Ambulancia asistencial de clase C
+SA04421;6617 LMR;Ambulancia asistencial de clase C
+SA04433;6642 LMR;Ambulancia asistencial de clase C
+SA04434;2994 LMS;Ambulancia asistencial de clase C
+SA04435;6660 LMR;Ambulancia asistencial de clase C
+SA04436;6637 LMR;Ambulancia asistencial de clase C
+SA04445;6636 LMR;Ambulancia asistencial de clase C
+SA04437;6656 LMR;Ambulancia asistencial de clase C
+SA04438;6634 LMR;Ambulancia asistencial de clase C
+SA04439;6640 LMR;Ambulancia asistencial de clase C
+SA04440;6707 LMR;Ambulancia asistencial de clase C
+SA04441;6639 LMR;Ambulancia asistencial de clase C
+SA04442;6641 LMR;Ambulancia asistencial de clase C
+SA04443;6658 LMR;Ambulancia asistencial de clase C
+SA04444;6638 LMR;Ambulancia asistencial de clase C
+SA04241;2807 KHP;Ambulancia no asistencial de clase A2
+SA04240;2800 KHP;Ambulancia no asistencial de clase A2
+SA04239;2799 KHP;Ambulancia no asistencial de clase A2
+SA04238;2797 KHP;Ambulancia no asistencial de clase A2
+SA04237;2789 KHP;Ambulancia no asistencial de clase A2
+SA04236;2788 KHP;Ambulancia no asistencial de clase A2
+SA04235;2785 KHP;Ambulancia no asistencial de clase A2
+SA04234;2784 KHP;Ambulancia no asistencial de clase A2
+SA04164;0624 KGZ;Ambulancia no asistencial de clase A2
+SA04210;0478 KGZ;Ambulancia no asistencial de clase A2
+SA04209;0458 KGZ;Ambulancia no asistencial de clase A2
+SA04128;1309 KGZ;Ambulancia no asistencial de clase A2
+SA03905;6428 KGJ;Ambulancia no asistencial de clase A2
+SA03901;9251 KGG;Ambulancia no asistencial de clase A2
+SA03900;9250 KGG;Ambulancia no asistencial de clase A2
+SA03895;8614 KGF;Ambulancia no asistencial de clase A2
+SA03894;8613 KGF;Ambulancia no asistencial de clase A2
+SA03893;8607 KGF;Ambulancia no asistencial de clase A2
+SA03891;8604 KGF;Ambulancia no asistencial de clase A2
+SA03883;8582 KGF;Ambulancia no asistencial de clase A2
+SA03884;8567 KGF;Ambulancia no asistencial de clase A2
+SA03885;8543 KGF;Ambulancia no asistencial de clase A2
+SA03886;8347 KGF;Ambulancia no asistencial de clase A2
+SA03887;8329 KGF;Ambulancia no asistencial de clase A2
+SA03889;8048 KGF;Ambulancia no asistencial de clase A2
+SA04225;1292 KGZ;Ambulancia no asistencial de clase A2
+SA04187;8907 KHG;Ambulancia no asistencial de clase A1
+SA04188;8905 KHG;Ambulancia no asistencial de clase A1
+SA04196;4441 KHF;Ambulancia no asistencial de clase A1
+SA04195;4439 KHF;Ambulancia no asistencial de clase A1
+SA04194;4435 KHF;Ambulancia no asistencial de clase A1
+SA04169;1290 KGZ;Ambulancia no asistencial de clase A2
+SA04168;1287 KGZ;Ambulancia no asistencial de clase A2
+SA04167;1285 KGZ;Ambulancia no asistencial de clase A2
+SA04208;0457 KGZ;Ambulancia no asistencial de clase A2
+SA04207;0454 KGZ;Ambulancia no asistencial de clase A2
+SA04206;0451 KGZ;Ambulancia no asistencial de clase A2
+SA04205;0450 KGZ;Ambulancia no asistencial de clase A2
+SA04204;0448 KGZ;Ambulancia no asistencial de clase A2
+SA04203;0447 KGZ;Ambulancia no asistencial de clase A2
+SA04202;0208 KGZ;Ambulancia no asistencial de clase A2
+SA04109;0453 KGZ;Ambulancia no asistencial de clase A2
+SA04123;1286 KGZ;Ambulancia no asistencial de clase A2
+SA04161;1288 KGZ;Ambulancia no asistencial de clase A2
+SA04160;1291 KGZ;Ambulancia no asistencial de clase A2
+SA04130;1293 KGZ;Ambulancia no asistencial de clase A2
+SA04156;1295 KGZ;Ambulancia no asistencial de clase A2
+SA04149;0629 KGZ;Ambulancia no asistencial de clase A2
+SA04132;1297 KGZ;Ambulancia no asistencial de clase A2
+SA04129;1283 KGZ;Ambulancia no asistencial de clase A2
+SA04224;0646 KGZ;Ambulancia no asistencial de clase A2
+SA04211;4434 KHF;Ambulancia no asistencial de clase A1
+SA04184;4432 KHF;Ambulancia no asistencial de clase A1
+SA04183;4425 KHF;Ambulancia no asistencial de clase A1
+SA04182;4423 KHF;Ambulancia no asistencial de clase A1
+SA04181;4420 KHF;Ambulancia no asistencial de clase A1
+SA04180;1328 KGZ;Ambulancia no asistencial de clase A2
+SA04176;1321 KGZ;Ambulancia no asistencial de clase A2
+SA04175;1316 KGZ;Ambulancia no asistencial de clase A2
+SA04172;1304 KGZ;Ambulancia no asistencial de clase A2
+SA04166;0652 KGZ;Ambulancia no asistencial de clase A2
+SA04165;0648 KGZ;Ambulancia no asistencial de clase A2
+SA04213;0198 KGZ;Ambulancia no asistencial de clase A2
+SA04220;0010 KGZ;Ambulancia no asistencial de clase A2
+SA04219;0007 KGZ;Ambulancia no asistencial de clase A2
+SA04218;0006 KGZ;Ambulancia no asistencial de clase A2
+SA04217;0005 KGZ;Ambulancia no asistencial de clase A2
+SA04216;0003 KGZ;Ambulancia no asistencial de clase A2
+SA04114;1300 KGZ;Ambulancia no asistencial de clase A2
+SA04112;1308 KGZ;Ambulancia no asistencial de clase A2
+SA04215;1312 KGZ;Ambulancia no asistencial de clase A2
+SA04116;0631 KGZ;Ambulancia no asistencial de clase A2
+SA04117;0705 KGZ;Ambulancia no asistencial de clase A2
+SA04159;1325 KGZ;Ambulancia no asistencial de clase A2
+SA04154;1305 KGZ;Ambulancia no asistencial de clase A2
+SA04141;1320 KGZ;Ambulancia no asistencial de clase A2
+SA04133;1323 KGZ;Ambulancia no asistencial de clase A2
+SA04127;1289 KGZ;Ambulancia no asistencial de clase A2
+SA04120;0001 KGZ;Ambulancia no asistencial de clase A2
+SA04121;1282 KGZ;Ambulancia no asistencial de clase A2
+SA04119;1279 KGZ;Ambulancia no asistencial de clase A2
+SA04037;7756 KGV;Ambulancia no asistencial de clase A2
+SA04036;7755 KGV;Ambulancia no asistencial de clase A2
+SA04035;7751 KGV;Ambulancia no asistencial de clase A2
+SA04034;7749 KGV;Ambulancia no asistencial de clase A2
+SA04033;7746 KGV;Ambulancia no asistencial de clase A2
+SA04032;7745 KGV;Ambulancia no asistencial de clase A2
+SA04031;7744 KGV;Ambulancia no asistencial de clase A2
+SA03977;6842 KGV;Ambulancia no asistencial de clase A2
+SA03971;6593 KGV;Ambulancia no asistencial de clase A2
+SA03970;6592 KGV;Ambulancia no asistencial de clase A2
+SA03969;6589 KGV;Ambulancia no asistencial de clase A2
+SA03968;6479 KGV;Ambulancia no asistencial de clase A2
+SA03967;6478 KGV;Ambulancia no asistencial de clase A2
+SA03966;6418 KGV;Ambulancia no asistencial de clase A2
+SA03965;6364 KGV;Ambulancia no asistencial de clase A2
+SA03964;6358 KGV;Ambulancia no asistencial de clase A2
+SA03828;1884 JSR;Ambulancia no asistencial de clase A2
+SA04523;5029 JVJ;Ambulancia no asistencial de clase A1
+SA04179;1324 KGZ;Ambulancia no asistencial de clase A2
+SA04177;1322 KGZ;Ambulancia no asistencial de clase A2
+SA04171;1303 KGZ;Ambulancia no asistencial de clase A2
+SA04214;0004 KGZ;Ambulancia no asistencial de clase A2
+SA04157;1306 KGZ;Ambulancia no asistencial de clase A2
+SA04153;1319 KGZ;Ambulancia no asistencial de clase A2
+SA04152;1326 KGZ;Ambulancia no asistencial de clase A2
+SA04140;1318 KGZ;Ambulancia no asistencial de clase A2
+SA04126;1327 KGZ;Ambulancia no asistencial de clase A2
+SA04030;7741 KGV;Ambulancia no asistencial de clase A2
+SA04029;7710 KGV;Ambulancia no asistencial de clase A2
+SA04028;7706 KGV;Ambulancia no asistencial de clase A2
+SA03998;7606 KGV;Ambulancia no asistencial de clase A2
+SA03963;5624 KGV;Ambulancia no asistencial de clase A2
+SA04174;1313 KGZ;Ambulancia no asistencial de clase A2
+SA04173;1311 KGZ;Ambulancia no asistencial de clase A2
+SA04170;1294 KGZ;Ambulancia no asistencial de clase A2
+SA04200;0203 KGZ;Ambulancia no asistencial de clase A2
+SA04199;0202 KGZ;Ambulancia no asistencial de clase A2
+SA04198;0201 KGZ;Ambulancia no asistencial de clase A2
+SA04221;0012 KGZ;Ambulancia no asistencial de clase A2
+SA04147;0002 KGZ;Ambulancia no asistencial de clase A2
+SA04146;0000 KGZ;Ambulancia no asistencial de clase A2
+SA04139;1301 KGZ;Ambulancia no asistencial de clase A2
+SA04134;1298 KGZ;Ambulancia no asistencial de clase A2
+SA04131;1284 KGZ;Ambulancia no asistencial de clase A2
+SA04122;1296 KGZ;Ambulancia no asistencial de clase A2
+SA04039;6481 KGV;Ambulancia no asistencial de clase A2
+SA04038;7757 KGV;Ambulancia no asistencial de clase A2
+SA04027;7703 KGV;Ambulancia no asistencial de clase A2
+SA04026;7702 KGV;Ambulancia no asistencial de clase A2
+SA04025;7701 KGV;Ambulancia no asistencial de clase A2
+SA04016;7700 KGV;Ambulancia no asistencial de clase A2
+SA04015;7698 KGV;Ambulancia no asistencial de clase A2
+SA04014;7697 KGV;Ambulancia no asistencial de clase A2
+SA04012;7696 KGV;Ambulancia no asistencial de clase A2
+SA04011;7621 KGV;Ambulancia no asistencial de clase A2
+SA04010;7619 KGV;Ambulancia no asistencial de clase A2
+SA04009;7608 KGV;Ambulancia no asistencial de clase A2
+SA03997;7605 KGV;Ambulancia no asistencial de clase A2
+SA03996;7604 KGV;Ambulancia no asistencial de clase A2
+SA03995;7603 KGV;Ambulancia no asistencial de clase A2
+SA03993;7602 KGV;Ambulancia no asistencial de clase A2
+SA03991;7601 KGV;Ambulancia no asistencial de clase A2
+SA03990;7600 KGV;Ambulancia no asistencial de clase A2
+SA03982;7598 KGV;Ambulancia no asistencial de clase A2
+SA03981;7597 KGV;Ambulancia no asistencial de clase A2
+SA03980;6848 KGV;Ambulancia no asistencial de clase A2
+SA04223;0196 KGZ;Ambulancia no asistencial de clase A2
+SA04111;1317 KGZ;Ambulancia no asistencial de clase A2
+SA03979;6847 KGV;Ambulancia no asistencial de clase A2
+SA03978;6845 KGV;Ambulancia no asistencial de clase A2
+SA03976;6844 KGV;Ambulancia no asistencial de clase A2
+SA03975;6841 KGV;Ambulancia no asistencial de clase A2
+SA03974;6839 KGV;Ambulancia no asistencial de clase A2
+SA03973;6693 KGV;Ambulancia no asistencial de clase A2
+SA03972;6595 KGV;Ambulancia no asistencial de clase A2
+SA03664;4261 JLD;Ambulancia no asistencial de clase A2
+SA03661;9695 JKB;Ambulancia no asistencial de clase A1
+SA04648;0274 KNR;Ambulancia asistencial de clase C
+SA03956;2894 KGV;Ambulancia no asistencial de clase A1
+SA04507;1112 LTG;Ambulancia asistencial de clase C
+SA04647;0277 KNR;Ambulancia no asistencial de clase A2
+SA04524;5028 JVJ;Ambulancia no asistencial de clase A1
+SA04520;1969 KWX;Ambulancia no asistencial de clase A2
+SA04519;8018 KPS;Ambulancia asistencial de clase C
+SA04515;9396 JNZ;Ambulancia no asistencial de clase A2
+SA03651;9819 JKB;Ambulancia no asistencial de clase A1
+SA03637;1194 JFL;Ambulancia asistencial de clase B 
+SA04820;7088 MLZ;Ambulancia asistencial de clase B 
+SA04226;2858 KHH;Ambulancia no asistencial de clase A1
+SA04190;2495 KHC;Ambulancia no asistencial de clase A1
+SA03962;2900 KGV;Ambulancia no asistencial de clase A2
+SA03924;2998 KGS;Ambulancia no asistencial de clase A1
+SA03923;2997 KGS;Ambulancia no asistencial de clase A1
+SA03922;2996 KGS;Ambulancia no asistencial de clase A1
+SA03919;2991 KGS;Ambulancia no asistencial de clase A1
+SA04162;2985 KGS;Ambulancia no asistencial de clase A1
+SA03910;6439 KGJ;Ambulancia no asistencial de clase A2
+SA03903;6426 KGJ;Ambulancia no asistencial de clase A2
+SA03902;6425 KGJ;Ambulancia no asistencial de clase A2
+SA03940;3091 KGS;Ambulancia no asistencial de clase A1
+SA03954;3116 KGS;Ambulancia no asistencial de clase A1
+SA03941;3092 KGS;Ambulancia no asistencial de clase A1
+SA03939;3086 KGS;Ambulancia no asistencial de clase A1
+SA03937;3079 KGS;Ambulancia no asistencial de clase A1
+SA03936;3078 KGS;Ambulancia no asistencial de clase A1
+SA03899;9249 KGG;Ambulancia no asistencial de clase A2
+SA03898;9248 KGG;Ambulancia no asistencial de clase A2
+SA03897;8626 KGF;Ambulancia no asistencial de clase A2
+SA03896;8615 KGF;Ambulancia no asistencial de clase A2
+SA03892;8606 KGF;Ambulancia no asistencial de clase A2
+SA03882;8592 KGF;Ambulancia no asistencial de clase A2
+SA03912;8479 KGF;Ambulancia no asistencial de clase A2
+SA03888;8319 KGF;Ambulancia no asistencial de clase A2
+SA04656;7758 JPD;Ambulancia asistencial de clase C
+SA03890;4115 KGJ;Ambulancia no asistencial de clase A2
+SA03877;4043 KGJ;Ambulancia no asistencial de clase A2
+SA03878;4042 KGJ;Ambulancia no asistencial de clase A2
+SA03879;4041 KGJ;Ambulancia no asistencial de clase A2
+SA04391;9960 LJS;Ambulancia asistencial de clase B 
+SA04366;9958 LJS;Ambulancia asistencial de clase B 
+SA04503;5227 JNZ;Ambulancia no asistencial de clase A2
+SA03695;6596 JMR;Ambulancia no asistencial de clase A2
+SA03652;9679 JKB;Ambulancia no asistencial de clase A1
+SA04537;9412 LVR;Ambulancia asistencial de clase C
+SA04536;9409 LVR;Ambulancia asistencial de clase C
+SA04538;9411 LVR;Ambulancia asistencial de clase C
+SA04539;9415 LVR;Ambulancia asistencial de clase C
+SA04315;5632 LDC;Ambulancia asistencial de clase B 
+SA03873;4169 KDT;Ambulancia asistencial de clase B 
+SA03660;9648 JKB;Ambulancia no asistencial de clase A1
+SA03654;9630 JKB;Ambulancia no asistencial de clase A1
+SA03655;9608 JKB;Ambulancia no asistencial de clase A1
+SA03659;9587 JKB;Ambulancia no asistencial de clase A1
+SA03656;8684 JKB;Ambulancia no asistencial de clase A1
+SA04819;8420 MLB;Ambulancia asistencial de clase B 
+SA04750;0475 MLK;Ambulancia asistencial de clase B 
+SA04746;0474 MLK;Ambulancia asistencial de clase B 
+SA03872;8278 KFB;Ambulancia asistencial de clase C
+SA04619;5749 JJM;Ambulancia asistencial de clase B 
+SA04646;0171 JJP;Ambulancia asistencial de clase B 
+SA04612;6588 JJP;Ambulancia asistencial de clase B 
+SA04613;0172 JJP;Ambulancia asistencial de clase B 
+SA04609;0190 JJP;Ambulancia asistencial de clase B 
+SA04607;3781 JJR;Ambulancia asistencial de clase B 
+SA04608;3765 JJR;Ambulancia asistencial de clase B 
+SA04604;0660 JJN;Ambulancia asistencial de clase B 
+SA04575;5738 JJM;Ambulancia asistencial de clase B 
+SA04580;5735 JJM;Ambulancia asistencial de clase B 
+SA04616;5508 JJP;Ambulancia asistencial de clase B 
+SA04624;3752 JJR;Ambulancia asistencial de clase B 
+SA04576;5741 JJM;Ambulancia asistencial de clase B 
+SA04508;2651 HYT;Ambulancia no asistencial de clase A2
+SA04484;6849 LPG;Ambulancia asistencial de clase B 
+SA04412;7366 LLG;Ambulancia asistencial de clase B 
+SA04314;3372 LBX;Ambulancia asistencial de clase C
+SA04808;2682 MLK;Ambulancia asistencial de clase B 
+SA04809;9998 MLJ;Ambulancia asistencial de clase B 
+SA04810;9997 MLJ;Ambulancia asistencial de clase B 
+SA04792;6031 MLS;Ambulancia asistencial de clase B 
+SA04793;3031 MLR;Ambulancia asistencial de clase B 
+SA04794;3027 MLR;Ambulancia asistencial de clase B 
+SA04780;2439 JXK;Ambulancia asistencial de clase B 
+SA04781;2423 JXK;Ambulancia asistencial de clase B 
+SA04782;2375 KVS;Ambulancia asistencial de clase B 
+SA04783;2373 KVS;Ambulancia asistencial de clase B 
+SA04784;2441 JXK;Ambulancia asistencial de clase B 
+SA04785;2440 JXK;Ambulancia asistencial de clase B 
+SA04787;2436 JXK;Ambulancia asistencial de clase B 
+SA04788;2435 JXK;Ambulancia asistencial de clase B 
+SA04789;2421 JXK;Ambulancia asistencial de clase B 
+SA04790;8796 MLN;Ambulancia asistencial de clase B 
+SA04795;7595 MLL;Ambulancia asistencial de clase B 
+SA04796;7583 MLL;Ambulancia asistencial de clase B 
+SA04797;7582 MLL;Ambulancia asistencial de clase B 
+SA04798;8777 MLN;Ambulancia asistencial de clase B 
+SA04799;2848 MLK;Ambulancia asistencial de clase B 
+SA04800;2752 MLK;Ambulancia asistencial de clase B 
+SA04801;2745 MLK;Ambulancia asistencial de clase B 
+SA04802;2733 MLK;Ambulancia asistencial de clase B 
+SA04803;2715 MLK;Ambulancia asistencial de clase B 
+SA04805;2705 MLK;Ambulancia asistencial de clase B 
+SA04806;2697 MLK;Ambulancia asistencial de clase B 
+SA04807;2692 MLK;Ambulancia asistencial de clase B 
+SA04812;0489 MLK;Ambulancia asistencial de clase B 
+SA04811;0481 MLK;Ambulancia asistencial de clase B 
+SA04813;0476 MLK;Ambulancia asistencial de clase B 
+SA04814;0472 MLK;Ambulancia asistencial de clase B 
+SA04817;0004 MLK;Ambulancia asistencial de clase B 
+SA04816;0036 MLK;Ambulancia asistencial de clase B 
+SA04791;0035 MLK;Ambulancia asistencial de clase B 
+SA04815;0005 MLK;Ambulancia asistencial de clase B 
+SA04804;0003 MLK;Ambulancia asistencial de clase B 
+SA04786;0002 MLK;Ambulancia asistencial de clase B 
+SA04741;9567 MLL;Ambulancia asistencial de clase B 
+SA04747;7666 MLL;Ambulancia asistencial de clase B 
+SA04728;7543 MLL;Ambulancia asistencial de clase B 
+SA04729;7547 MLL;Ambulancia asistencial de clase B 
+SA04740;7584 MLL;Ambulancia asistencial de clase B 
+SA04739;8795 MLN;Ambulancia asistencial de clase B 
+SA04766;8780 MLN;Ambulancia asistencial de clase B 
+SA04765;8779 MLN;Ambulancia asistencial de clase B 
+SA04730;8797 MLN;Ambulancia asistencial de clase B 
+SA04731;8811 MLN;Ambulancia asistencial de clase B 
+SA04732;8778 MLN;Ambulancia asistencial de clase B 
+SA04764;8800 MLN;Ambulancia asistencial de clase B 
+SA04733;8803 MLN;Ambulancia asistencial de clase B 
+SA04734;8804 MLN;Ambulancia asistencial de clase B 
+SA04763;8799 MLN;Ambulancia asistencial de clase B 
+SA04762;2726 MLK;Ambulancia asistencial de clase B 
+SA04761;8801 MLN;Ambulancia asistencial de clase B 
+SA04735;4252 MLL;Ambulancia asistencial de clase B 
+SA04736;4251 MLL;Ambulancia asistencial de clase B 
+SA04737;4250 MLL;Ambulancia asistencial de clase B 
+SA04738;4249 MLL;Ambulancia asistencial de clase B 
+SA04748;4241 MLL;Ambulancia asistencial de clase B 
+SA04749;4240 MLL;Ambulancia asistencial de clase B 
+SA04760;4238 MLL;Ambulancia asistencial de clase B 
+SA04753;4237 MLL;Ambulancia asistencial de clase B 
+SA04768;4232 MLL;Ambulancia asistencial de clase B 
+SA04769;4231 MLL;Ambulancia asistencial de clase B 
+SA04771;4230 MLL;Ambulancia asistencial de clase B 
+SA04772;4219 MLL;Ambulancia asistencial de clase B 
+SA04770;4218 MLL;Ambulancia asistencial de clase B 
+SA04773;4217 MLL;Ambulancia asistencial de clase B 
+SA04774;4201 MLL;Ambulancia asistencial de clase B 
+SA04775;4199 MLL;Ambulancia asistencial de clase B 
+SA04776;4192 MLL;Ambulancia asistencial de clase B 
+SA04777;4191 MLL;Ambulancia asistencial de clase B 
+SA04778;4190 MLL;Ambulancia asistencial de clase B 
+SA04767;4170 MLL;Ambulancia asistencial de clase B 
+SA04759;0488 MLK;Ambulancia asistencial de clase B 
+SA04758;0487 MLK;Ambulancia asistencial de clase B 
+SA04757;0486 MLK;Ambulancia asistencial de clase B 
+SA04756;0485 MLK;Ambulancia asistencial de clase B 
+SA04755;0484 MLK;Ambulancia asistencial de clase B 
+SA04754;0480 MLK;Ambulancia asistencial de clase B 
+SA04752;0478 MLK;Ambulancia asistencial de clase B 
+SA04751;0477 MLK;Ambulancia asistencial de clase B 
+SA04745;0473 MLK;Ambulancia asistencial de clase B 
+SA04744;0471 MLK;Ambulancia asistencial de clase B 
+SA04743;0048 MLK;Ambulancia asistencial de clase B 
+SA04742;0001 MLK;Ambulancia asistencial de clase B 
+SA04625;0160 JJP;Ambulancia asistencial de clase B 
+SA04600;0163 JJP;Ambulancia asistencial de clase B 
+SA04617;6662 JJP;Ambulancia asistencial de clase B 
+SA04517;5026 LTW;Ambulancia no asistencial de clase A2
+SA04518;5024 LTW;Ambulancia no asistencial de clase A2
+SA04513;5921 JNZ;Ambulancia no asistencial de clase A2
+SA04512;5605 JNZ;Ambulancia no asistencial de clase A2
+SA04405;0364 LLC;Ambulancia asistencial de clase B 
+SA03650;0229 JKF;Ambulancia no asistencial de clase A1
+SA04418;7701 JYP;Ambulancia no asistencial de clase A2
+SA04352;0072 LJT;Ambulancia asistencial de clase B 
+SA04614;6640 JJP;Ambulancia asistencial de clase B 
+SA04602;6654 JJP;Ambulancia asistencial de clase B 
+SA04721;9014 MKM;Ambulancia no asistencial de clase A2
+SA04723;0281 KNR;Ambulancia no asistencial de clase A2
+SA04323;3969 LGX;Ambulancia no asistencial de clase A1
+SA04470;5151 LKR;Ambulancia asistencial de clase B 
+SA04304;1089 JCK;Ambulancia asistencial de clase C
+SA04714;7628 MJG;Ambulancia no asistencial de clase A2
+SA04715;0253 MJC;Ambulancia no asistencial de clase A2
+SA04311;7658 LBK;Ambulancia asistencial de clase C
+SA04309;7913 KZT;Ambulancia asistencial de clase B 
+SA04709;2269 MKR;Ambulancia no asistencial de clase A1
+SA04710;2268 MKR;Ambulancia no asistencial de clase A1
+SA04711;2267 MKR;Ambulancia no asistencial de clase A1
+SA04712;2266 MKR;Ambulancia no asistencial de clase A1
+SA04713;2264 MKR;Ambulancia no asistencial de clase A1
+SA04708;1441 MKR;Ambulancia no asistencial de clase A1
+SA03537;1040 JBD;Ambulancia asistencial de clase B 
+SA04707;7296 JBK;Ambulancia asistencial de clase C
+SA04611;6424 JJP;Ambulancia asistencial de clase B 
+SA04620;3753 JJR;Ambulancia asistencial de clase B 
+SA04621;3749 JJR;Ambulancia asistencial de clase B 
+SA04605;3756 JJR;Ambulancia asistencial de clase B 
+SA04615;5734 JJM;Ambulancia asistencial de clase B 
+SA04581;5723 JJM;Ambulancia asistencial de clase B 
+SA04597;6641 JJP;Ambulancia asistencial de clase B 
+SA04606;6633 JJP;Ambulancia asistencial de clase B 
+SA04610;6430 JJP;Ambulancia asistencial de clase B 
+SA04622;0158 JJP;Ambulancia asistencial de clase B 
+SA04623;5713 JJM;Ambulancia asistencial de clase B 
+SA04603;6660 JJP;Ambulancia asistencial de clase B 
+SA04302;2795 KWX;Ambulancia asistencial de clase B 
+SA03856;8762 KBW;Ambulancia no asistencial de clase A2
+SA04360;0712 LJT;Ambulancia asistencial de clase B 
+SA04645;6666 JJP;Ambulancia asistencial de clase B 
+SA04504;4706 LSL;Ambulancia asistencial de clase B 
+SA03497;0965 HYS;Ambulancia asistencial de clase C
+SA04626;0157 JJP;Ambulancia asistencial de clase B 
+SA04701;4242 MJM;Ambulancia asistencial de clase B 
+SA04702;4241 MJM;Ambulancia asistencial de clase B 
+SA04703;4240 MJM;Ambulancia asistencial de clase B 
+SA04704;4239 MJM;Ambulancia asistencial de clase B 
+SA04705;4238 MJM;Ambulancia asistencial de clase B 
+SA04706;4237 MJM;Ambulancia asistencial de clase B 
+SA04700;6487 MJV;Ambulancia asistencial de clase C
+SA04699;5883 MJM;Ambulancia asistencial de clase B 
+SA04496;0579 KNB;Ambulancia asistencial de clase C
+SA04696;4627 MJC;Ambulancia asistencial de clase C
+SA04686;9359 MHS;Ambulancia no asistencial de clase A2
+SA04687;3073 MHS;Ambulancia no asistencial de clase A2
+SA04689;2863 MHS;Ambulancia no asistencial de clase A2
+SA04691;2860 MHS;Ambulancia no asistencial de clase A2
+SA04693;7387 MHP;Ambulancia asistencial de clase B 
+SA04694;7386 MHP;Ambulancia asistencial de clase B 
+SA04695;7384 MHP;Ambulancia asistencial de clase B 
+SA04488;2982 JDB;Ambulancia no asistencial de clase A2
+SA04492;2959 JDB;Ambulancia no asistencial de clase A2
+SA04688;2917 MHS;Ambulancia no asistencial de clase A2
+SA04690;2862 MHS;Ambulancia no asistencial de clase A2
+SA04692;7388 MHP;Ambulancia asistencial de clase B 
+SA04684;5092 MHK;Ambulancia no asistencial de clase A2
+SA04685;5079 MHK;Ambulancia no asistencial de clase A2
+SA04682;5091 MHK;Ambulancia no asistencial de clase A2
+SA04683;5077 MHK;Ambulancia no asistencial de clase A2
+SA04468;3077 LNB;Ambulancia no asistencial de clase A2
+SA04674;4076 MGG;Ambulancia asistencial de clase B 
+SA04479;8167 LBS;Ambulancia no asistencial de clase A2
+SA04478;4540 JDR;Ambulancia no asistencial de clase A2
+SA04673;6538 MGB;Ambulancia no asistencial de clase A2
+SA04545;7688 KVM;Ambulancia no asistencial de clase A2
+SA04672;8088 MFC;Ambulancia asistencial de clase C
+SA04670;6503 MDZ;Ambulancia no asistencial de clase A2
+SA04668;6502 MDZ;Ambulancia no asistencial de clase A2
+SA04197;0199 KGZ;Ambulancia no asistencial de clase A2
+SA04659;0973 MDJ;Ambulancia no asistencial de clase A1
+SA04661;3315 MCW;Ambulancia asistencial de clase C
+SA04658;1554 MCT;Ambulancia asistencial de clase B 
+SA04299;2856 JKV;Ambulancia no asistencial de clase A2
+SA04654;2692 JHY;Ambulancia no asistencial de clase A2
+SA04650;2725 JHY;Ambulancia no asistencial de clase A2
+SA04649;3782 JJR;Ambulancia no asistencial de clase A1
+SA03795;0101 JSH;Ambulancia no asistencial de clase A1
+SA03958;2896 KGV;Ambulancia no asistencial de clase A1
+SA03800;0464 JSH;Ambulancia no asistencial de clase A1
+SA03799;0463 JSH;Ambulancia no asistencial de clase A1
+SA03798;0462 JSH;Ambulancia no asistencial de clase A1
+SA04638;3240 LPJ;Ambulancia no asistencial de clase A2
+SA04642;3202 LPJ;Ambulancia no asistencial de clase A2
+SA04641;3226 LPJ;Ambulancia no asistencial de clase A2
+SA04640;9400 LPL;Ambulancia no asistencial de clase A2
+SA04639;8247 LGJ;Ambulancia asistencial de clase B 
+SA04644;9436 LFJ;Ambulancia asistencial de clase B 
+SA04636;5336 LZT;Ambulancia asistencial de clase B 
+SA04635;8246 LGJ;Ambulancia asistencial de clase B 
+SA04633;4509 LPH;Ambulancia no asistencial de clase A2
+SA04634;9398 LPL;Ambulancia no asistencial de clase A2
+SA04628;0618 JBM;Ambulancia asistencial de clase B 
+SA04629;3177 LPJ;Ambulancia no asistencial de clase A2
+SA04630;3185 LPJ;Ambulancia no asistencial de clase A2
+SA04632;4520 LPH;Ambulancia no asistencial de clase A2
+SA04631;9399 LPL;Ambulancia no asistencial de clase A2
+SA04467;5167 LKR;Ambulancia asistencial de clase B 
+SA04573;3741 JJR;Ambulancia asistencial de clase B 
+SA04574;0530 JJD;Ambulancia no asistencial de clase A2
+SA03636;8739 JGM;Ambulancia no asistencial de clase A2
+SA04561;8268 LYM;Ambulancia no asistencial de clase A1
+SA03833;6192 JVC;Ambulancia no asistencial de clase A2
+SA03593;9961 JDX;Ambulancia no asistencial de clase A2
+SA03703;4018 JNB;Ambulancia no asistencial de clase A2
+SA03837;7954 JXH;Ambulancia no asistencial de clase A1
+SA04557;4697 JZF;Ambulancia no asistencial de clase A1
+SA04558;8028 LGD;Ambulancia no asistencial de clase A2
+SA03665;5342 JLF;Ambulancia no asistencial de clase A2
+SA03571;2367 JCM;Ambulancia no asistencial de clase A1
+SA04410;5973 JBP;Ambulancia asistencial de clase B 
+SA04527;5155 LRB;Ambulancia asistencial de clase B 
+SA03925;2999 KGS;Ambulancia no asistencial de clase A1
+SA03874;0695 KFK;Ambulancia asistencial de clase B 
+SA04526;3406 JHZ;Ambulancia no asistencial de clase A2
+SA03505;6090 HZN;Ambulancia no asistencial de clase A2
+SA04521;0357 LRX;Ambulancia no asistencial de clase A1
+SA04186;3100 KGS;Ambulancia no asistencial de clase A1
+SA04510;2349 HYX;Ambulancia no asistencial de clase A2
+SA04505;5614 LGJ;Ambulancia asistencial de clase B 
+SA04501;3109 LSG;Ambulancia no asistencial de clase A2
+SA04499;0280 JPN;Ambulancia no asistencial de clase A2
+SA04498;0317 JRY;Ambulancia no asistencial de clase A2
+SA04495;2682 LRP;Ambulancia no asistencial de clase A2
+SA03715;6157 JPH;Ambulancia no asistencial de clase A1
+SA04486;4443 LRJ;Ambulancia no asistencial de clase A2
+SA04487;4499 JNX;Ambulancia no asistencial de clase A2
+SA03612;6492 JFZ;Ambulancia no asistencial de clase A1
+SA03611;6490 JFZ;Ambulancia no asistencial de clase A1
+SA03604;6486 JFZ;Ambulancia no asistencial de clase A1
+SA03605;6484 JFZ;Ambulancia no asistencial de clase A1
+SA03607;6479 JFZ;Ambulancia no asistencial de clase A1
+SA03609;6458 JFZ;Ambulancia no asistencial de clase A1
+SA03610;6444 JFZ;Ambulancia no asistencial de clase A1
+SA03624;9949 JFX;Ambulancia no asistencial de clase A2
+SA04409;7935 LMD;Ambulancia no asistencial de clase A2
+SA03563;7228 JBN;Ambulancia asistencial de clase B 
+SA03629;9781 JGG;Ambulancia no asistencial de clase A2
+SA03630;9725 JGG;Ambulancia no asistencial de clase A2
+SA04407;1163 JPF;Ambulancia no asistencial de clase A1
+SA03961;2899 KGV;Ambulancia no asistencial de clase A1
+SA04329;9604 LGG;Ambulancia asistencial de clase C
+SA04325;9444 LFJ;Ambulancia asistencial de clase B 
+SA03622;0443 JFY;Ambulancia no asistencial de clase A1
+SA03621;0422 JFY;Ambulancia no asistencial de clase A1
+SA03620;0258 JFY;Ambulancia no asistencial de clase A1
+SA03617;0411 JFY;Ambulancia no asistencial de clase A1
+SA03614;0216 JFY;Ambulancia no asistencial de clase A1
+SA03608;6464 JFZ;Ambulancia no asistencial de clase A1
+SA04319;2496 JBL;Ambulancia asistencial de clase C
+SA04228;6243 KHN;Ambulancia asistencial de clase C
+SA04151;0449 KGZ;Ambulancia no asistencial de clase A2
+SA04253;3632 JPV;Ambulancia no asistencial de clase A2
+SA04308;6633 KZK;Ambulancia no asistencial de clase A1
+SA04256;2476 JBL;Ambulancia asistencial de clase C
+SA04298;7646 KTY;Ambulancia no asistencial de clase A1
+SA04244;5503 KLB;Ambulancia asistencial de clase B 
+SA04243;2613 KKK;Ambulancia asistencial de clase C
+SA04242;8986 JMN;Ambulancia no asistencial de clase A2
+SA04227;9895 KGV;Ambulancia asistencial de clase C
+SA04191;2496 KHC;Ambulancia no asistencial de clase A1
+SA03918;2990 KGS;Ambulancia no asistencial de clase A1
+SA03915;2984 KGS;Ambulancia no asistencial de clase A1
+SA03913;2982 KGS;Ambulancia no asistencial de clase A1
+SA03867;9728 KCM;Ambulancia asistencial de clase C
+SA03860;6561 HYV;Ambulancia no asistencial de clase A2
+SA03643;9285 JFC;Ambulancia asistencial de clase B 
+SA03642;3851 JDF;Ambulancia asistencial de clase C
+SA03606;6487 JFZ;Ambulancia no asistencial de clase A1
+SA03825;6712 FVC;Ambulancia no asistencial de clase A1
+SA03668;3965 FRY;Ambulancia asistencial de clase B 
+SA03670;4226 FXX;Ambulancia asistencial de clase B 
+SA03669;1456 FTB;Ambulancia asistencial de clase B 
+SA03646;5740 FPS;Ambulancia no asistencial de clase A2
+SA03645;5731 FPS;Ambulancia no asistencial de clase A2
+SA03638;2812 DXY;Ambulancia asistencial de clase B 
+SA03634;3707 DYZ;Ambulancia asistencial de clase B 
+SA03591;6167 DXZ;Ambulancia asistencial de clase C
+SA03570;9126 DVB;Ambulancia asistencial de clase C
+SA03502;7886 HZF;Ambulancia no asistencial de clase A2
+SA2340;4794 FTY;Ambulancia asistencial de clase C
+SA2341;7914 FVB;Ambulancia asistencial de clase C
+SA2377;9934 FYR;Ambulancia no asistencial de clase A2
+SA2371;3071 FWB;Ambulancia no asistencial de clase A1
+SA2367;4223 FWY;Ambulancia no asistencial de clase A2
+SA2323;3151 FTC;Ambulancia asistencial de clase B 
+SA2223;6875 FHS;Ambulancia no asistencial de clase A1
+SA03445;0046 HVV;Ambulancia no asistencial de clase A2
+SA2667;9123 GTP;Ambulancia asistencial de clase C
+SA03222;6863 FTH;Ambulancia asistencial de clase C
+SA2366;4163 FWF;Ambulancia no asistencial de clase A2
+SA2382;4876 FYL;Ambulancia no asistencial de clase A1
+SA2381;1578 FYX;Ambulancia asistencial de clase C
+SA2372;1544 FYX;Ambulancia asistencial de clase C
+SA2339;1703 FSS;Ambulancia asistencial de clase C
+SA2338;1707 FSS;Ambulancia asistencial de clase C
+SA2402;0211 FYH;Ambulancia asistencial de clase B 
+SA2362;1907 FWF;Ambulancia no asistencial de clase A2
+SA2361;1899 FWF;Ambulancia no asistencial de clase A2
+SA2360;1923 FWF;Ambulancia no asistencial de clase A2
+SA2359;1915 FWF;Ambulancia no asistencial de clase A2
+SA2358;1929 FWF;Ambulancia no asistencial de clase A2
+SA2357;1890 FWF;Ambulancia no asistencial de clase A2
+SA2356;1895 FWF;Ambulancia no asistencial de clase A2
+SA2355;1886 FWF;Ambulancia no asistencial de clase A2
+SA2349;7389 FVR;Ambulancia no asistencial de clase A2
+SA2348;7398 FVR;Ambulancia no asistencial de clase A2
+SA2347;7403 FVR;Ambulancia no asistencial de clase A2
+SA2346;7405 FVR;Ambulancia no asistencial de clase A2
+SA2345;7412 FVR;Ambulancia no asistencial de clase A2
+SA2344;7395 FVR;Ambulancia no asistencial de clase A2
+SA2343;7414 FVR;Ambulancia no asistencial de clase A2

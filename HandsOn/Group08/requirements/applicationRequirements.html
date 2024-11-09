@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Requisitos de Aplicación: Información de Estaciones de Tren en Málaga</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", sans-serif;
+            margin: 20px;
+            background-color: #f7f9fc;
+            color: #34495e;
+        }
+        h1, h2 {
+            color: #34495e;
+            font-weight: 600;
+            border-bottom: 2px solid #bdc3c7;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        th {
+            background-color: #d1d8e0;
+            font-weight: 500;
+            color: #34495e;
+        }
+        tr:hover {
+            background-color: #f1f4f8;
+        }
+        .requirement {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            border: 1px solid #dcdde1;
+            color: #2c3e50;
+        }
+        .mockup-section {
+            margin-top: 30px;
+        }
+        .mockup {
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #f1f4f8;
+            border: 1px solid #dcdde1;
+            border-radius: 8px;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Requisitos de Aplicación: Información de Estaciones de Tren en Málaga</h1>
+    <h2>Visión General</h2>
+    <p>Este documento detalla los requisitos de la aplicación para un mapa interactivo y una base de datos de las estaciones de tren en Málaga, con el objetivo de ofrecer acceso fácil a la información de las estaciones para la planificación urbana y la asistencia a los pasajeros.</p>
+
+    <h2>Requisitos de la Aplicación</h2>
+    <div class="requirement">
+        <h3>Objetivo</h3>
+        <p>La aplicación proporcionará una interfaz para que los usuarios puedan ver información detallada sobre las estaciones de tren de Málaga, incluyendo ubicación, accesibilidad y servicios, utilizando datos como los códigos de estación, descripciones y coordenadas.</p>
+    </div>
+
+    <div class="requirement">
+        <h3>Fuentes de Datos</h3>
+        <ul>
+            <li><strong>Información de las Estaciones:</strong> Detalles de cada estación de tren, incluyendo código, descripción, dirección y coordenadas.</li>
+            <li><strong>Servicios e Instalaciones:</strong> Datos sobre instalaciones específicas de la estación, como túneles de lavado.</li>
+        </ul>
+    </div>
+
+    <div class="requirement">
+        <h3>Características</h3>
+        <ul>
+            <li>Buscar y ver estaciones de tren por nombre, código o ubicación.</li>
+            <li>Mostrar coordenadas GPS en un mapa interactivo para facilitar la navegación.</li>
+            <li>Mostrar información detallada de cada estación, como dirección, código postal e instalaciones disponibles.</li>
+        </ul>
+    </div>
+
+    <h2>Maquetas e Interfaz de Usuario</h2>
+    
+    <div class="mockup-section">
+        <div class="mockup">
+            <h3>Vista de Detalles de la Estación</h3>
+            <p>Muestra información detallada sobre una estación seleccionada, incluyendo ubicación, código postal e instalaciones disponibles.</p>
+            <ul>
+                <li><strong>Código de Estación:</strong> 54505</li>
+                <li><strong>Nombre:</strong> AEROPUERTO</li>
+                <li><strong>Ubicación:</strong> Avenida del Comandante García Morato, S/N</li>
+                <li><strong>Código Postal:</strong> 29140</li>
+                <li><strong>Ciudad:</strong> Málaga</li>
+                <li><strong>Provincia:</strong> Málaga</li>
+                <li><strong>Coordenadas GPS:</strong> 36.6760678, -4.4879567</li>
+                <li><strong>Instalaciones:</strong> Túnel de Lavado Disponible</li>
+                <li><strong>Más Información:</strong> <a href="https://data.renfe.com/station-details">Detalles de la Estación en Renfe</a></li>
+            </ul>
+        </div>
+
+        <div class="mockup">
+            <h3>Vista de Ubicación de la Estación</h3>
+            <p>Muestra la estación en un mapa interactivo, permitiendo a los usuarios ver todas las estaciones cercanas dentro de la provincia de Málaga.</p>
+            <ul>
+                <li><strong>Nombre de la Estación:</strong> ALJAIMA</li>
+                <li><strong>Coordenadas GPS:</strong> 36.733092, -4.664725</li>
+                <li><strong>Estaciones Cercanas:</strong> ALORA, AEROPUERTO, BENALMADENA</li>
+            </ul>
+        </div>
+
+        <div class="mockup">
+            <h3>Vista de Disponibilidad de Servicios</h3>
+            <p>Proporciona una visión general de los servicios disponibles en las estaciones seleccionadas, como túneles de lavado, y enlaces a más detalles sobre las instalaciones.</p>
+            <ul>
+                <li><strong>Nombre de la Estación:</strong> CAMPANILLAS</li>
+                <li><strong>Ubicación:</strong> Calle Alameda, S/N</li>
+                <li><strong>Instalaciones:</strong> Túnel de Lavado No Disponible</li>
+                <li><strong>Información Adicional:</strong> No hay servicios adicionales en esta estación</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>

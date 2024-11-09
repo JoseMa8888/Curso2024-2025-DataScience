@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Requisitos de Aplicación</title>
+    <style>
+        /* Estilos básicos para el documento */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        
+        header {
+            background-color: #87CEEB;
+            color: #333;
+            padding: 15px;
+            text-align: center;
+        }
+        
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+
+        h1 {
+            font-size: 1.8em;
+        }
+
+        h2 {
+            color: #005b96;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            color: #333;
+            font-size: 1.2em;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+        
+        section {
+            margin: 20px;
+            padding: 15px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        ul {
+            list-style-type: circle;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Estilos para las maquetas */
+        .mockup {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #f0f8ff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .main-content {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 3px;
+        }
+
+        .main-content p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Requisitos de la Aplicación para Puertos de Carga de Coches Eléctricos</h1>
+        <p>Este documento describe los requisitos y las maquetas de la interfaz de usuario sobre la información disponible de puertos de carga para vehículos eléctricos y el padrón del vehículos.</p>
+    </header>
+
+    <section>
+        <h2>Requisitos de la Aplicación</h2>
+        <ul>
+            <li><strong>Puntos de recarga:</strong> Indica los puntos de recarga públicos que ofrece el Ayuntamiento de Madrid, operados por empresas municipales y privadas.</li>
+            <li><strong>Padrón de vehículos:</strong> Información de vehículos desglosada según distrito, barrio, tipo de vehículo, clasificación, cuota y combustible.</li>
+            <li><strong>Objetivos:</strong> Proponemos desarrollar una plataforma que permita localizar y analizar la demanda de puntos de recarga para vehículos eléctricos en cada distrito, basada en los datos del padrón de vehículos.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Maquetas de la Interfaz de Usuario</h2>
+
+        <!-- Maqueta de la vista de detalles de la estación -->
+        <div class="mockup">
+            <h3>Vista de Detalles de la Estación</h3>
+            <p>Incluye información detallada de la estación seleccionada.</p>
+            <div class="main-content">
+                <p><strong>Distrito:</strong> Arganzuela</p>
+                <p><strong>Barrio:</strong> Palos de Moguer</p>
+                <p><strong>Ubicación:</strong> Ronda de Valencia 1</p>
+                <p><strong>Emplazamiento:</strong> Vía pública</p>
+                <p><strong>Características:</strong> 50 kW, 2 conectores CC (CCS/Chademo) y 1 conector AC Mennekes</p>
+                <p><strong>Operador:</strong> GIC</p>
+            </div>
+            <h3>Vista de Detalles de Vehículos</h3>
+            <p>Incluye información detallada del vehículo.</p>
+            <div class="main-content">
+                <p><strong>Distrito:</strong> CENTRO</p>
+                <p><strong>Barrio:</strong> PALACIO</p>
+                <p><strong>Tipo de vehículo:</strong> MOTOCICLETA</p>
+                <p><strong>Etiqueta medioambiental:</strong> C</p>
+                <p><strong>Tipo de carburante:</strong> GASOLINA</p>
+                <p><strong>Año de matriculación:</strong> 2009</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

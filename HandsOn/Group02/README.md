@@ -1,7 +1,6 @@
-# Group 02
+# Group participants and GitHub usernames
 
-
-Jose Ma - JoseMa8888
-Anton Pogromskyy - anton-p0g
-Oliver Anderson Llorens - oliverAnderson18
-José Luis García Arocas - 
+* Pablo Tsang Chang             ->   **PabloTsang**
+* Diego Mateo Fernández         ->   **diegomateofer**
+* Eduardo Vicente García        ->   **eduvicgar**
+* Alejandro Escorial Aparicio   ->   **Alejandro-Escorial**

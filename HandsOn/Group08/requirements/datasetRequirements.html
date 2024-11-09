@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Requisitos de los Conjuntos de Datos (Ciudades Inteligentes)</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", sans-serif;
+            margin: 20px;
+            background-color: #f7f9fc;
+            color: #34495e;
+        }
+        h1, h2 {
+            color: #34495e;
+            font-weight: 600;
+            border-bottom: 2px solid #bdc3c7;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        th {
+            background-color: #d1d8e0;
+            font-weight: 500;
+            color: #34495e;
+        }
+        tr:hover {
+            background-color: #f1f4f8;
+        }
+        .optional {
+            font-style: italic;
+            color: #7f8c8d;
+        }
+        .requirement {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            border: 1px solid #dcdde1;
+            color: #2c3e50;
+        }
+        label {
+            font-weight: 500;
+            color: #2d3436;
+        }
+    </style>
+    
+</head>
+<body>
+
+    <h1>Comprobación de Datos</h1>
+    <h2>Requisitos</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Requisito</th>
+                <th>Descripción</th>
+                <th>Comprobación</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>R1</td>
+                <td>Data are in one of the selected smart city domains</td>
+                <td>✅</td>
+            </tr>
+            <tr>
+                <td>R2</td>
+                <td>Data are available as a CSV file</td>
+                <td>✅</td>
+            </tr>
+            <tr>
+                <td>R3</td>
+                <td>Data have an open license so they can be published</td>
+                <td>✅</td>
+            </tr>
+            <tr>
+                <td>R4</td>
+                <td>Data can be easily linked with generic real-world entities (e.g., locations)</td>
+                <td>✅</td>
+            </tr>
+            <tr>
+                <td>R5 <span class="optional">(Optional)</span></td>
+                <td>Documentation exists for the data</td>
+                <td>❌</td>
+            </tr>
+            <tr>
+                <td>R6 <span class="optional">(Optional)</span></td>
+                <td>Data can come from multiple data sources</td>
+                <td>❌</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Explicación de los requisitos</h2>
+
+    <h3>R1. Data are in one of the selected smart city domains</h3>
+    <p>Los Datasets seleccionados están relacionados con el transporte público de la ciudad, entrando en el dominio de ciudad inteligente.</p>
+
+    <h3>R2. Data are available as a CSV file</h3>
+    <p>Se han facilitado los datos en dos archivo csv diferentes.</p>
+
+    <h3>R3. Licencia Abierta</h3>
+    <p>Los datasets facilitados usan la licencia CC BY 4.0, que permite copiar, modificar y utilizar los datos de manera libre con el único requisito que se reconozca al autor original. No se pueden aplicar restricciones adicionales al uso de la obra.
+        Licencia utilizada: <a href = "https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a>
+    </p>
+
+    <h3>R4. Data can be easily linked with generic real-world entities</h3>
+    <p>Los datos están relacionados con estaciones de trenes existentes en Málaga, haciendo que sea posible localizarlos de manera física.</p>
+
+    <h3>R5. Documentation exists for the data (Optional)</h3>
+    <p>Los datasets no cuentan con una documentación.</p>
+
+    <h3>R6. Data can come from multiple data sources (Optional)</h3>
+    <p>Todos los datasets han sido publicados por el mismo autor, Renfe-Operadora.</p>
+
+    <h3>Linking data between datasets</h3>
+    <p>Las entidades de los datasets comparten entre sí los nombres de las estaciones, permitiendo así enlazarlos entre ellos y a datasets externos relacionados con las estaciones de tren.</p>
+</body>
+</html>

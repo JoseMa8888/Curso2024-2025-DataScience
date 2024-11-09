@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dataset Requirements Analysis</title>
+</head>
+<body>
+    <h1>Dataset Requirements Analysis</h1>
+
+    <h2>Licencias</h2>
+    <p>Los datasets seleccionados están publicados bajo la <a href="https://creativecommons.org/licenses/by/4.0/"></a>.</p>
+
+    <h2>Requisitos</h2>
+    <ul>
+        <li><strong>R1: Dominio de ciudad inteligente</strong> - Ambos conjuntos de datos pertenecen al dominio de <em>salud y seguridad pública</em> en el contexto de una ciudad inteligente.</li>
+        <li><strong>R2: Disponibilidad en formato CSV</strong> - Ambos datasets están disponibles en formato CSV.</li>
+        <li><strong>R3: Licencia abierta</strong> - Los datos están bajo una licencia abierta que permite su publicación y reutilización.</li>
+        <li><strong>R4: Datos vinculables</strong> - Los datasets contienen entidades que pueden vincularse a otras fuentes de datos externas. Ejemplos de estos vínculos se describen en la sección siguiente.</li>
+        <li><strong>R5: Documentación (opcional)</strong> - Existe documentación básica proporcionada en el portal de datos de la Comunidad de Madrid.</li>
+        <li><strong>R6: Múltiples fuentes (opcional)</strong> - Los datos provienen de fuentes diversas dentro del sistema de salud pública y de servicios de emergencia.</li>
+    </ul>
+
+    <h2>Entidades Vinculables en los Datasets Seleccionados</h2>
+    <h3>Centros, Servicios y Establecimientos Sanitarios</h3>
+    <ul>
+        <li><strong>Municipio (`municipio_nombre`):</strong> Puede vincularse con otros datasets que contengan información demográfica y de servicios en diferentes municipios, como población o distribución de recursos.</li>
+        <li><strong>Coordenadas Geográficas (`localizacion_coordenada_x`, `localizacion_coordenada_y`):</strong> Permite la vinculación con sistemas GIS y mapas interactivos que muestren la ubicación de estos centros en el contexto de otros servicios públicos.</li>
+        <li><strong>Dirección y Código Postal:</strong> Vinculable con servicios de mapas o datos de infraestructuras de transporte y comunicación en diferentes zonas.</li>
+    </ul>
+
+    <h3>Vehículos de Transporte Sanitario</h3>
+    <ul>
+        <li><strong>Ubicación o Ruta del Vehículo:</strong> Si los datos incluyen rutas o coordenadas, se puede vincular con datos de tráfico en tiempo real y servicios de rutas óptimas.</li>
+        <li><strong>Tipo de Servicio de Transporte:</strong> Puede vincularse con datos de salud pública para evaluar la disponibilidad y tiempos de respuesta de diferentes tipos de transporte en distintas áreas.</li>
+    </ul>
+
+    <h2>Entidades Externas Vinculables</h2>
+    <ul>
+        <li><strong>Datos de Tráfico:</strong> Las rutas de los vehículos de emergencia pueden mejorarse vinculándolas con datos de tráfico en tiempo real para optimizar el tiempo de respuesta.</li>
+        <li><strong>Datos Demográficos y de Salud Pública:</strong> Los datos poblacionales y estadísticas de salud en cada municipio pueden ayudar en la planificación y distribución de centros y servicios de transporte sanitario.</li>
+        <li><strong>Infraestructura de Transporte:</strong> Datos de infraestructura de carreteras y servicios de transporte pueden ayudar a optimizar las rutas de los vehículos de transporte sanitario.</li>
+    </ul>
+</body>
+</html>
+

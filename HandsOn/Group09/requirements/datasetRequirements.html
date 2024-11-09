@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Evaluación de Requisitos de los Conjuntos de Datos</title>
+        </head>
+    <body>
+        <header>
+            <h1>Evaluación de Requisitos de los Conjuntos de Datos</h1>
+            <p>En este documento se evalúa si los conjuntos de datos seleccionados cumplen con los requisitos obligatorios (R1 a R4) y el grado de satisfacción de los requisitos opcionales (R5 y R6).</p>
+        </header>
+
+        <section id="requisitos-obligatorios">
+            <h2>Requisitos Obligatorios</h2>
+            
+            <!-- Requisito R1 -->
+            <article id="requisito-r1">
+                <h3>Requisito R1: </h3>
+                <p>Los datos se encuentran en uno de los dominios de ciudad inteligente seleccionados</p>
+                <ul>
+                    <li>En nuestro caso el dataset seleccionado contiene los datos de las instalaciones municipales con zonas wifi gratuitas de la ciudad de <b>MADRID</b>.</li>
+                </ul>
+            </article>
+
+            <!-- Requisito R2 -->
+            <article id="requisito-r2">
+                <h3>Requisito R2: </h3>
+                <p>Los datos se encuentran disponibles como un archivo CSV</p>
+                <ul>
+                    <li>El archivo del dataset es un CSV obtenido del portal de datos abiertos del Ayuntamiento de Madrid (216619-0-wifi-municipal.csv).</li>
+                </ul>
+            </article>
+
+            <!-- Requisito R3 -->
+            <article id="requisito-r3">
+                <h3>Requisito R3: </h3>
+                <p>Los datos tienen una licencia abierta para que puedan ser publicados</p>
+                <ul>
+                    <li>Dentro de las <i><b>Condiciones de uso</b></i> del portal de datos abiertos del Ayuntamiento de Madrid aparecen lo siguiente: <br><i>"Las condiciones generales permiten la reutilización de los documentos para fines comerciales y no comerciales. Se entiende por reutilización el uso de documentos que obran en poder del Ayuntamiento de Madrid, siempre que dicho uso no constituya una actividad administrativa pública."</i>.</li>
+                </ul>
+            </article>
+
+            <!-- Requisito R4 -->
+            <article id="requisito-r4">
+                <h3>Requisito R4: </h3>
+                <p>Los datos se pueden vincular fácilmente con entidades genéricas del mundo real (por ejemplo, ubicaciones)</p>
+                <ul>
+                    <li>El dataset con el que estamos trabajando, a parte del nombre de cada una de las instalaciones municipales con zonas wifi gratuitas, cuenta con información como la vía, el número ,código postal e incluso el barrio y el distrito en el que se encuentran, hasta es posible conocer las coordenadas geográficas de dichas instalaciones, esto facilita su localización y acceso mediante cualquier medio o plataforma digital. <br> Otras entidades no tendrán problema en enlazarse con nuestra aplicación ya que nuestro dataset contiene mucha inforación de estos lugares. </li>
+                </ul>
+            </article>
+        </section>
+
+        <section id="requisitos-opcionales">
+            <h2>Requisitos Opcionales</h2>
+            
+            <!-- Requisito R5 -->
+            <article id="requisito-r5">
+                <h3>Requisito R5: </h3>
+                <p>Existe documentación para los datos</p>
+                <ul>
+                    <li>Cuenta con documentación de la estructura del CSV que nos permite entenderlo con más facilicad.</li>
+                </ul>
+            </article>
+
+            <!-- Requisito R6 -->
+            <article id="requisito-r6">
+                <h3>Requisito R6: </h3>
+                <p>Los datos pueden provenir de múltiples fuentes de datos.</p>
+                <ul>
+                    <li>En este requisito tenemos nuestras dudas pero pensamos que, aunque el dataset venga del portal de datos abiertos del Ayuntamiento de Madrid, es posible que hayan podido colaborar las distintas juntas municipales de los distintos distritos que constituyen la ciudad de Madrid.</li>
+                </ul>
+            </article>
+        </section>
+    </body>
+</html>

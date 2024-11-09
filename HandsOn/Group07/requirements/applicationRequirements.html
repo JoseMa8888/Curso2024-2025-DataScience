@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Turismo Cultural en Madrid</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          background-color: #f0f4f8;
+          color: #333;
+          margin: 0;
+          padding: 0;
+      }
+      header, footer {
+          text-align: center;
+          padding: 20px;
+          background-color: #003366;
+          color: white;
+      }
+      section {
+          padding: 20px;
+          text-align: center;
+      }
+      h1, h2 {
+          color: #003366;
+      }
+      label {
+          font-weight: bold;
+          color: #003366;
+          margin-top: 10px;
+          display: block;
+      }
+      input, select, button {
+          margin: 5px;
+          padding: 8px;
+          font-size: 14px;
+          border: 1px solid #ddd;
+          border-radius: 4px;
+      }
+      #map-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 500px;
+          width: 90%;
+          margin: 20px auto;
+          border: 2px solid #003366;
+          border-radius: 5px;
+          overflow: hidden;
+      }
+      #map {
+          width: 100%;
+          height: 100%;
+      }
+      button {
+          background-color: #00796b;
+          color: white;
+          border: none;
+          padding: 10px 20px;
+          font-size: 16px;
+          margin: 10px;
+          cursor: pointer;
+          border-radius: 5px;
+      }
+      button:hover {
+          background-color: #005a4e;
+      }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Turismo Cultural en Madrid</h1>
+  <p>Descubre museos, monumentos y eventos culturales en Madrid. Planifica tu visita según tu ubicación y elige rutas de transporte público o en bicicleta.</p>
+</header>
+
+<section>
+  <h2>Encuentra actividades y lugares de interés cerca de ti</h2>
+
+  <label for="ubicacion">Ubicación actual o seleccione un lugar en el mapa:</label>
+  <select id="ubicacion">
+    <option value="user_location">Mi ubicación actual</option>
+    <option value="retiro">Parque del Retiro</option>
+    <option value="prado">Museo del Prado</option>
+    <option value="debod">Templo de Debod</option>
+  </select>
+
+  <label for="fecha">Seleccione el rango de fechas:</label>
+  <input type="date" id="fecha-inicio" placeholder="Fecha de inicio">
+  <input type="date" id="fecha-fin" placeholder="Fecha de fin">
+
+  <h3>Opciones de ruta:</h3>
+  <button id="bicicleta">Ruta en Bicicleta</button>
+  <button id="transporte-publico">Ruta en Transporte Público</button>
+
+  <div id="map-container">
+      <div id="map"></div>
+  </div>
+</section>
+
+<footer>
+  <p>Aplicación desarrollada con datos abiertos del Ayuntamiento de Madrid</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  // Inicializa el mapa centrado en Madrid
+  const map = L.map('map').setView([40.4168, -3.7038], 13);
+
+  // Carga de mapa desde OpenStreetMap
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // Marcador de ejemplo en el Parque del Retiro
+  const retiroMarker = L.marker([40.4113, -3.6844]).addTo(map)
+      .bindPopup("Parque del Retiro")
+      .openPopup();
+
+  // Marcador de ejemplo en el Museo del Prado
+  const pradoMarker = L.marker([40.4138, -3.6921]).addTo(map)
+      .bindPopup("Museo del Prado");
+
+  // Marcador de ejemplo en el Templo de Debod
+  const debodMarker = L.marker([40.4240, -3.7178]).addTo(map)
+      .bindPopup("Templo de Debod");
+</script>
+
+</body>
+</html>
+
+
+
+
