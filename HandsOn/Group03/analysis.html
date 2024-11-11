@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Análisis de sobre los datos</title>
+    </head>
+    <body>
+
+        <header>
+            <h1>Análisis y nombrado de datos</h1>
+            <h2>Análisis de los datos</h2>
+            <p>En ambos data sets hemos tomado cada columna como un tipo de clase. Estas clases se definen con propiedades y deben tener un tipo en específico. Hay una columna en el data set de london housing llamada "area" y otra columna en el data set de london schooling llamada "LA_NAME". Estas columnas tienen un uso muy importante, ya que son las que usaremos para relacionar el precio de la vivienda en londres con la cantidad de colegios que rodeen a la vivienda.</p>
+            <p>Hemos hecho un análisis de en ambos data sets de cuantas casas y colegios hay en cada zona. Luego relacionaremos ambos data sets a través de las propiedades de las clases. Es importante recalcar que cada colegio puede estar relacionado con múltiples casas y viceversa.</p>
+            <p>Veamos gráficamente la cantidad de casas-colegios por zona. Esto servirá para entender y analizar mejor ambos datasets. Para visualizar mejor, hemos quitado el valor "England", ya que por razones obvias desbalanceaba mucho la gráfica. Veamoslas a continuación:</p>
+            <h2>Visualización gráfica de los tipos de nombrado.</h2>
+            <img src="images\Figure_1.png" width="500" height="auto">
+            <img src="images\LANAME.png" width="500" height="auto">
+        </header>
+
+        <main>
+            <h2>Licencias de los datos</h2>
+            <p>Ambos datasets usados tienen la licencia Open Government Licence v.3.0, lo cual hace que no existan conflictos de licencia entre los dos datasets, por lo que la licencia potencial sería también Open Government Licence v.3.0</p>
+
+
+            <h2>Estrategias de nombrado</h2>
+                <h3>Nombrado de ambos data sets</h3>
+                <p>El nombrado se ha hecho por clases, propiedades e individuos. Ambos data sets siguen el mismo esquema de nombrado. Tenemos los siguientes nombrados:</p>
+
+                <h4>EStrategias de nombrado para cada tipo de elemento:</h4>
+                    <ul>
+                        <li><strong>Clases</strong>: [ontologyName]#[className]</li>
+                        <li><strong>propiedades</strong>: [ontologyName]#[propertyName]</li>
+                        <li><strong>Individuos</strong>: [className]/[identifier]</li>
+                    </ul>
+
+                <h2>Visualización gráfica de los tipos de nombrado.</h2>
+                <img src="images\Captura de pantalla 2024-11-10 143623.png" width="500" height="auto">
+                <p>Estrategia de nombrado de London Housing de manera visual</p>
+                <img src="images\Captura de pantalla 20242211-11 151758.png" width="500" height="auto">
+                <p>Estrategia de nombrado de London School de manera visual</p>
+
+                
+        </main>
+    </body>
+</html>
